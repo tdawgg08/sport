@@ -1,10 +1,8 @@
-from aiogram.types import ReplyKeyboardMarkup, KeyboardButton
+from aiogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 
 def start_keyboard():
-    return ReplyKeyboardMarkup(
-        keyboard=[
-            [KeyboardButton(text="Начать")]
-        ],
-        resize_keyboard=True,
-        one_time_keyboard=True
+    return InlineKeyboardMarkup(
+        inline_keyboard=[
+            [InlineKeyboardButton(text="Начать", callback_data="quiz-1")]
+        ]
     )

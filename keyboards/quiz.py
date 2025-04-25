@@ -2,7 +2,7 @@ from aiogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 from aiogram.fsm.context import FSMContext
 from aiogram.fsm.state import State, StatesGroup
 
-def question_1(answered | None = None) -> InlineKeyboardMarkup:
+def question_1(answered) -> InlineKeyboardMarkup:
     if not answered:
         keyboard = [
             [InlineKeyboardButton(text="Здоровье", callback_data="quiz-1-1")],
@@ -30,7 +30,7 @@ def question_1(answered | None = None) -> InlineKeyboardMarkup:
                 ]
     keyboard.append(
         [
-           InlineKeyboardButton(text = '⬅️', callback_data='menu'),
+           InlineKeyboardButton(text = '⬅️', callback_data='pass'),
            InlineKeyboardButton(text = '[ 1 ]', callback_data='pass'),
            InlineKeyboardButton(text = '➡️', callback_data='quiz-2'),
         ]
@@ -38,7 +38,7 @@ def question_1(answered | None = None) -> InlineKeyboardMarkup:
     return InlineKeyboardMarkup(inline_keyboard=keyboard)
 
 
-def question_2(answered | None = None) -> InlineKeyboardMarkup:
+def question_2(answered) -> InlineKeyboardMarkup:
     if not answered:
         keyboard = [
             [InlineKeyboardButton(text="Фитнес", callback_data="quiz-2-1")],
@@ -74,7 +74,7 @@ def question_2(answered | None = None) -> InlineKeyboardMarkup:
     return InlineKeyboardMarkup(inline_keyboard=keyboard)
 
 
-def question_3(answered | None = None) -> InlineKeyboardMarkup:
+def question_3(answered) -> InlineKeyboardMarkup:
     if not answered:
         keyboard = [
             [InlineKeyboardButton(text="Похудение", callback_data="quiz-3-1")],
@@ -110,7 +110,7 @@ def question_3(answered | None = None) -> InlineKeyboardMarkup:
     return InlineKeyboardMarkup(inline_keyboard=keyboard)
 
 
-def question_4(answered | None = None) -> InlineKeyboardMarkup:
+def question_4(answered) -> InlineKeyboardMarkup:
     if not answered:
         keyboard = [
             [InlineKeyboardButton(text="1-3 часа", callback_data="quiz-4-1")],
@@ -146,7 +146,7 @@ def question_4(answered | None = None) -> InlineKeyboardMarkup:
     return InlineKeyboardMarkup(inline_keyboard=keyboard)
 
 
-def question_5(answered | None = None) -> InlineKeyboardMarkup:
+def question_5(answered) -> InlineKeyboardMarkup:
     if not answered:
         keyboard = [
             [InlineKeyboardButton(text="Сам", callback_data="quiz-5-1")],
@@ -182,7 +182,7 @@ def question_5(answered | None = None) -> InlineKeyboardMarkup:
     return InlineKeyboardMarkup(inline_keyboard=keyboard)
 
 
-def question_6(answered | None = None) -> InlineKeyboardMarkup:
+def question_6(answered) -> InlineKeyboardMarkup:
     if not answered:
         keyboard = [
             [InlineKeyboardButton(text="Да, важно", callback_data="quiz-6-1")],
@@ -217,7 +217,7 @@ def question_6(answered | None = None) -> InlineKeyboardMarkup:
     )        
     return InlineKeyboardMarkup(inline_keyboard=keyboard)
 
-def question_7(answered | None = None) -> InlineKeyboardMarkup:
+def question_7(answered) -> InlineKeyboardMarkup:
     if not answered:
         keyboard = [
             [InlineKeyboardButton(text="До 18", callback_data="quiz-7-1")],
