@@ -212,7 +212,7 @@ def question_6(answered) -> InlineKeyboardMarkup:
         [
            InlineKeyboardButton(text = '⬅️', callback_data='quiz-5'),
            InlineKeyboardButton(text = '[ 6 ]', callback_data='pass'),
-           InlineKeyboardButton(text = 'Меню', callback_data='quiz-7'),
+           InlineKeyboardButton(text = '➡️', callback_data='quiz-7'),
         ]
     )        
     return InlineKeyboardMarkup(inline_keyboard=keyboard)
