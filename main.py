@@ -1,19 +1,22 @@
 import os
 import sys
+import logging
+from dotenv import load_dotenv
+
 from aiogram import Dispatcher, Bot, F, types
 from handlers.start import router as start_router
 from handlers.quiz import router as quiz_router
+from handlers.gpt import router as gpt_router
 from handlers.menu import router as menu_router
 from callbacks import num_router
 import logging
 
 from database.orm import Manage_ORM
-from config import TOKEN_API_BOT
+
 
 import asyncio
 
-import sys
-import logging
+load_dotenv()
 
 logging.basicConfig(
     level=logging.INFO,
@@ -27,11 +30,13 @@ logging.basicConfig(
 sys.path.insert(1, os.path.join(sys.path[0], '..'))
 
 async def main():
+    TOKEN_API_BOT = os.getenv('TOKEN_API_BOT')
     bot = Bot(TOKEN_API_BOT)
     dp = Dispatcher()
     dp.include_router(start_router)
     dp.include_router(quiz_router)
     dp.include_router(menu_router)
+    dp.include_router(gpt_router)
     dp.include_router(num_router)
     await Manage_ORM.drop_tables()
     await Manage_ORM.create_table_anketa()

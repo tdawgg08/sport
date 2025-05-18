@@ -11,6 +11,7 @@ router = Router()
 
 
 @router.callback_query(F.data == 'menu')
+
 async def menu_callback(callback: types.CallbackQuery, state: FSMContext):
     data = await state.get_data()
     
@@ -56,7 +57,20 @@ async def menu_callback(callback: types.CallbackQuery, state: FSMContext):
 
         finally:
             await state.clear()
-            await callback.message.delete()
+            
+            chat_id = callback.message.chat.id
+            user_id = callback.from_user.id
+            
+            last_msg_id = callback.message.message_id
+            
+            for msg_id in range(last_msg_id, max(0, last_msg_id-100), -1):
+                try:
+                    await callback.bot.delete_message(chat_id, msg_id)
+                except:
+                    pass
 
         await callback.message.answer('Меню', reply_markup=menu_kb())
-    
+@router.callback_query(F.data == 'back')        
+async def back_command(callback: CallbackQuery):
+    await callback.message.answer('Меню', reply_markup=menu_kb())
+    await callback.answer()

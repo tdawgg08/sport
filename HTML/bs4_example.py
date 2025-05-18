@@ -9,7 +9,7 @@ def get_auto(url):
     )
 
     
-    with open('idi_naxui/cccchecker.html', 'w', encoding='utf-8') as file:
+    with open('HTML/cccchecker.html', 'w', encoding='utf-8') as file:
         scr = file.write(req.text)
     # soup = BeautifulSoup(req, 'lxml')
     # # products = soup.find('div', id='main-content', class_='block')

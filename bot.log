@@ -1249,3 +1249,289 @@ inline_keyboard.2.10
 2025-05-18 19:32:59,373 - aiogram.event - INFO - Update id=675292657 is handled. Duration 235 ms by bot id=7604875583
 2025-05-18 19:33:00,801 - aiogram.event - INFO - Update id=675292658 is handled. Duration 296 ms by bot id=7604875583
 2025-05-18 19:33:09,061 - aiogram.event - INFO - Update id=675292659 is handled. Duration 421 ms by bot id=7604875583
+2025-05-18 22:24:45,689 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2025-05-18 22:24:45,689 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7604875583)
+2025-05-18 22:24:57,017 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 7604875583)
+2025-05-19 00:14:55,694 - sqlalchemy.engine.Engine - INFO - select pg_catalog.version()
+2025-05-19 00:14:55,694 - sqlalchemy.engine.Engine - INFO - [raw sql] ()
+2025-05-19 00:14:55,694 - sqlalchemy.engine.Engine - INFO - select current_schema()
+2025-05-19 00:14:55,695 - sqlalchemy.engine.Engine - INFO - [raw sql] ()
+2025-05-19 00:14:55,696 - sqlalchemy.engine.Engine - INFO - show standard_conforming_strings
+2025-05-19 00:14:55,696 - sqlalchemy.engine.Engine - INFO - [raw sql] ()
+2025-05-19 00:14:55,696 - sqlalchemy.engine.Engine - INFO - BEGIN (implicit)
+2025-05-19 00:14:55,698 - sqlalchemy.engine.Engine - INFO - SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = $1::VARCHAR AND pg_catalog.pg_class.relkind = ANY (ARRAY[$2::VARCHAR, $3::VARCHAR, $4::VARCHAR, $5::VARCHAR, $6::VARCHAR]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != $7::VARCHAR
+2025-05-19 00:14:55,698 - sqlalchemy.engine.Engine - INFO - [generated in 0.00041s] ('users', 'r', 'p', 'f', 'v', 'm', 'pg_catalog')
+2025-05-19 00:14:55,700 - sqlalchemy.engine.Engine - INFO - SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = $1::VARCHAR AND pg_catalog.pg_class.relkind = ANY (ARRAY[$2::VARCHAR, $3::VARCHAR, $4::VARCHAR, $5::VARCHAR, $6::VARCHAR]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != $7::VARCHAR
+2025-05-19 00:14:55,700 - sqlalchemy.engine.Engine - INFO - [cached since 0.002396s ago] ('user_callories', 'r', 'p', 'f', 'v', 'm', 'pg_catalog')
+2025-05-19 00:14:55,701 - sqlalchemy.engine.Engine - INFO - SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = $1::VARCHAR AND pg_catalog.pg_class.relkind = ANY (ARRAY[$2::VARCHAR, $3::VARCHAR, $4::VARCHAR, $5::VARCHAR, $6::VARCHAR]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != $7::VARCHAR
+2025-05-19 00:14:55,701 - sqlalchemy.engine.Engine - INFO - [cached since 0.003063s ago] ('categories', 'r', 'p', 'f', 'v', 'm', 'pg_catalog')
+2025-05-19 00:14:55,701 - sqlalchemy.engine.Engine - INFO - SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = $1::VARCHAR AND pg_catalog.pg_class.relkind = ANY (ARRAY[$2::VARCHAR, $3::VARCHAR, $4::VARCHAR, $5::VARCHAR, $6::VARCHAR]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != $7::VARCHAR
+2025-05-19 00:14:55,702 - sqlalchemy.engine.Engine - INFO - [cached since 0.003743s ago] ('sub_categories', 'r', 'p', 'f', 'v', 'm', 'pg_catalog')
+2025-05-19 00:14:55,702 - sqlalchemy.engine.Engine - INFO - SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = $1::VARCHAR AND pg_catalog.pg_class.relkind = ANY (ARRAY[$2::VARCHAR, $3::VARCHAR, $4::VARCHAR, $5::VARCHAR, $6::VARCHAR]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != $7::VARCHAR
+2025-05-19 00:14:55,703 - sqlalchemy.engine.Engine - INFO - [cached since 0.004875s ago] ('products', 'r', 'p', 'f', 'v', 'm', 'pg_catalog')
+2025-05-19 00:14:55,703 - sqlalchemy.engine.Engine - INFO - 
+DROP TABLE products
+2025-05-19 00:14:55,703 - sqlalchemy.engine.Engine - INFO - [no key 0.00017s] ()
+2025-05-19 00:14:55,705 - sqlalchemy.engine.Engine - INFO - 
+DROP TABLE user_callories
+2025-05-19 00:14:55,705 - sqlalchemy.engine.Engine - INFO - [no key 0.00021s] ()
+2025-05-19 00:14:55,706 - sqlalchemy.engine.Engine - INFO - 
+DROP TABLE sub_categories
+2025-05-19 00:14:55,706 - sqlalchemy.engine.Engine - INFO - [no key 0.00022s] ()
+2025-05-19 00:14:55,707 - sqlalchemy.engine.Engine - INFO - 
+DROP TABLE categories
+2025-05-19 00:14:55,707 - sqlalchemy.engine.Engine - INFO - [no key 0.00017s] ()
+2025-05-19 00:14:55,708 - sqlalchemy.engine.Engine - INFO - 
+DROP TABLE users
+2025-05-19 00:14:55,708 - sqlalchemy.engine.Engine - INFO - [no key 0.00020s] ()
+2025-05-19 00:14:55,709 - sqlalchemy.engine.Engine - INFO - COMMIT
+2025-05-19 00:14:55,712 - sqlalchemy.engine.Engine - INFO - BEGIN (implicit)
+2025-05-19 00:14:55,712 - sqlalchemy.engine.Engine - INFO - SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = $1::VARCHAR AND pg_catalog.pg_class.relkind = ANY (ARRAY[$2::VARCHAR, $3::VARCHAR, $4::VARCHAR, $5::VARCHAR, $6::VARCHAR]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != $7::VARCHAR
+2025-05-19 00:14:55,712 - sqlalchemy.engine.Engine - INFO - [cached since 0.01459s ago] ('users', 'r', 'p', 'f', 'v', 'm', 'pg_catalog')
+2025-05-19 00:14:55,713 - sqlalchemy.engine.Engine - INFO - SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = $1::VARCHAR AND pg_catalog.pg_class.relkind = ANY (ARRAY[$2::VARCHAR, $3::VARCHAR, $4::VARCHAR, $5::VARCHAR, $6::VARCHAR]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != $7::VARCHAR
+2025-05-19 00:14:55,714 - sqlalchemy.engine.Engine - INFO - [cached since 0.01575s ago] ('user_callories', 'r', 'p', 'f', 'v', 'm', 'pg_catalog')
+2025-05-19 00:14:55,714 - sqlalchemy.engine.Engine - INFO - SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = $1::VARCHAR AND pg_catalog.pg_class.relkind = ANY (ARRAY[$2::VARCHAR, $3::VARCHAR, $4::VARCHAR, $5::VARCHAR, $6::VARCHAR]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != $7::VARCHAR
+2025-05-19 00:14:55,714 - sqlalchemy.engine.Engine - INFO - [cached since 0.01654s ago] ('categories', 'r', 'p', 'f', 'v', 'm', 'pg_catalog')
+2025-05-19 00:14:55,715 - sqlalchemy.engine.Engine - INFO - SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = $1::VARCHAR AND pg_catalog.pg_class.relkind = ANY (ARRAY[$2::VARCHAR, $3::VARCHAR, $4::VARCHAR, $5::VARCHAR, $6::VARCHAR]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != $7::VARCHAR
+2025-05-19 00:14:55,715 - sqlalchemy.engine.Engine - INFO - [cached since 0.0174s ago] ('sub_categories', 'r', 'p', 'f', 'v', 'm', 'pg_catalog')
+2025-05-19 00:14:55,716 - sqlalchemy.engine.Engine - INFO - SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = $1::VARCHAR AND pg_catalog.pg_class.relkind = ANY (ARRAY[$2::VARCHAR, $3::VARCHAR, $4::VARCHAR, $5::VARCHAR, $6::VARCHAR]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != $7::VARCHAR
+2025-05-19 00:14:55,716 - sqlalchemy.engine.Engine - INFO - [cached since 0.01811s ago] ('products', 'r', 'p', 'f', 'v', 'm', 'pg_catalog')
+2025-05-19 00:14:55,717 - sqlalchemy.engine.Engine - INFO - 
+CREATE TABLE users (
+	id SERIAL NOT NULL, 
+	user_id BIGINT NOT NULL, 
+	first_username VARCHAR NOT NULL, 
+	last_username VARCHAR NOT NULL, 
+	first_answer INTEGER NOT NULL, 
+	second_answer INTEGER NOT NULL, 
+	third_answer INTEGER NOT NULL, 
+	fourth_answer INTEGER NOT NULL, 
+	fifth_answer INTEGER NOT NULL, 
+	sixth_answer INTEGER NOT NULL, 
+	seventh_answer INTEGER NOT NULL, 
+	PRIMARY KEY (id), 
+	UNIQUE (user_id)
+)
+
+
+2025-05-19 00:14:55,717 - sqlalchemy.engine.Engine - INFO - [no key 0.00053s] ()
+2025-05-19 00:14:55,723 - sqlalchemy.engine.Engine - INFO - 
+CREATE TABLE categories (
+	id SERIAL NOT NULL, 
+	name VARCHAR NOT NULL, 
+	PRIMARY KEY (id)
+)
+
+
+2025-05-19 00:14:55,723 - sqlalchemy.engine.Engine - INFO - [no key 0.00033s] ()
+2025-05-19 00:14:55,726 - sqlalchemy.engine.Engine - INFO - 
+CREATE TABLE sub_categories (
+	id SERIAL NOT NULL, 
+	name VARCHAR NOT NULL, 
+	PRIMARY KEY (id)
+)
+
+
+2025-05-19 00:14:55,726 - sqlalchemy.engine.Engine - INFO - [no key 0.00031s] ()
+2025-05-19 00:14:55,730 - sqlalchemy.engine.Engine - INFO - 
+CREATE TABLE user_callories (
+	id SERIAL NOT NULL, 
+	user_id BIGINT NOT NULL, 
+	food VARCHAR, 
+	callories INTEGER, 
+	PRIMARY KEY (id), 
+	FOREIGN KEY(user_id) REFERENCES users (user_id)
+)
+
+
+2025-05-19 00:14:55,730 - sqlalchemy.engine.Engine - INFO - [no key 0.00043s] ()
+2025-05-19 00:14:55,735 - sqlalchemy.engine.Engine - INFO - 
+CREATE TABLE products (
+	id SERIAL NOT NULL, 
+	name VARCHAR NOT NULL, 
+	calories INTEGER NOT NULL, 
+	proteins INTEGER NOT NULL, 
+	fats INTEGER NOT NULL, 
+	carbs INTEGER NOT NULL, 
+	sub_category_id INTEGER NOT NULL, 
+	PRIMARY KEY (id), 
+	FOREIGN KEY(sub_category_id) REFERENCES sub_categories (id)
+)
+
+
+2025-05-19 00:14:55,736 - sqlalchemy.engine.Engine - INFO - [no key 0.00059s] ()
+2025-05-19 00:14:55,739 - sqlalchemy.engine.Engine - INFO - COMMIT
+2025-05-19 00:14:55,740 - root - INFO - Бот запущен
+2025-05-19 00:14:55,740 - aiogram.dispatcher - INFO - Start polling
+2025-05-19 00:14:56,066 - aiogram.dispatcher - INFO - Run polling for bot @Sportzhangbot id=7604875583 - 'Sport planner | ZhangGroup'
+2025-05-19 00:15:30,067 - aiogram.event - INFO - Update id=675292663 is not handled. Duration 0 ms by bot id=7604875583
+2025-05-19 00:15:32,597 - aiogram.event - INFO - Update id=675292664 is not handled. Duration 0 ms by bot id=7604875583
+2025-05-19 00:15:34,039 - aiogram.event - INFO - Update id=675292665 is not handled. Duration 0 ms by bot id=7604875583
+2025-05-19 00:15:36,689 - aiogram.event - INFO - Update id=675292666 is handled. Duration 438 ms by bot id=7604875583
+2025-05-19 00:15:38,164 - aiogram.event - INFO - Update id=675292667 is handled. Duration 327 ms by bot id=7604875583
+2025-05-19 00:15:38,938 - aiogram.event - INFO - Update id=675292668 is handled. Duration 235 ms by bot id=7604875583
+2025-05-19 00:15:39,646 - aiogram.event - INFO - Update id=675292669 is handled. Duration 328 ms by bot id=7604875583
+2025-05-19 00:15:40,311 - aiogram.event - INFO - Update id=675292670 is handled. Duration 296 ms by bot id=7604875583
+2025-05-19 00:15:41,284 - aiogram.event - INFO - Update id=675292671 is handled. Duration 250 ms by bot id=7604875583
+2025-05-19 00:15:49,488 - aiogram.event - INFO - Update id=675292672 is handled. Duration 233 ms by bot id=7604875583
+2025-05-19 00:15:50,120 - aiogram.event - INFO - Update id=675292673 is handled. Duration 233 ms by bot id=7604875583
+2025-05-19 00:15:50,651 - aiogram.event - INFO - Update id=675292674 is handled. Duration 234 ms by bot id=7604875583
+2025-05-19 00:15:51,258 - aiogram.event - INFO - Update id=675292675 is handled. Duration 250 ms by bot id=7604875583
+2025-05-19 00:15:51,826 - aiogram.event - INFO - Update id=675292676 is handled. Duration 233 ms by bot id=7604875583
+2025-05-19 00:15:55,566 - aiogram.event - INFO - Update id=675292677 is handled. Duration 250 ms by bot id=7604875583
+2025-05-19 00:15:56,413 - aiogram.event - INFO - Update id=675292678 is handled. Duration 250 ms by bot id=7604875583
+2025-05-19 00:15:57,302 - aiogram.event - INFO - Update id=675292679 is handled. Duration 281 ms by bot id=7604875583
+2025-05-19 00:15:57,969 - aiogram.event - INFO - Update id=675292680 is handled. Duration 250 ms by bot id=7604875583
+2025-05-19 00:15:59,791 - sqlalchemy.engine.Engine - INFO - BEGIN (implicit)
+2025-05-19 00:15:59,792 - sqlalchemy.engine.Engine - INFO - INSERT INTO users (user_id, first_username, last_username, first_answer, second_answer, third_answer, fourth_answer, fifth_answer, sixth_answer, seventh_answer) VALUES ($1::BIGINT, $2::VARCHAR, $3::VARCHAR, $4::INTEGER, $5::INTEGER, $6::INTEGER, $7::INTEGER, $8::INTEGER, $9::INTEGER, $10::INTEGER) RETURNING users.id
+2025-05-19 00:15:59,793 - sqlalchemy.engine.Engine - INFO - [generated in 0.00034s] (1212329814, '张亮', '', 3, 3, 2, 3, 2, 3, 2)
+2025-05-19 00:15:59,794 - sqlalchemy.engine.Engine - INFO - COMMIT
+2025-05-19 00:16:17,380 - aiogram.event - INFO - Update id=675292681 is handled. Duration 17594 ms by bot id=7604875583
+2025-05-19 00:16:25,766 - aiogram.event - INFO - Update id=675292682 is handled. Duration 235 ms by bot id=7604875583
+2025-05-19 00:16:48,155 - aiogram.event - INFO - Update id=675292683 is handled. Duration 6828 ms by bot id=7604875583
+2025-05-19 00:16:57,054 - aiogram.event - INFO - Update id=675292684 is handled. Duration 171 ms by bot id=7604875583
+2025-05-19 00:19:28,884 - root - INFO - Бот запущен
+2025-05-19 00:19:28,884 - aiogram.dispatcher - INFO - Start polling
+2025-05-19 00:19:29,209 - aiogram.dispatcher - INFO - Run polling for bot @Sportzhangbot id=7604875583 - 'Sport planner | ZhangGroup'
+2025-05-19 00:19:43,440 - aiogram.event - INFO - Update id=675292685 is handled. Duration 328 ms by bot id=7604875583
+2025-05-19 00:19:44,479 - aiogram.event - INFO - Update id=675292686 is handled. Duration 250 ms by bot id=7604875583
+2025-05-19 00:20:22,345 - aiogram.event - INFO - Update id=675292687 is handled. Duration 125 ms by bot id=7604875583
+2025-05-19 00:20:26,425 - aiogram.event - INFO - Update id=675292688 is handled. Duration 233 ms by bot id=7604875583
+2025-05-19 00:20:35,326 - aiogram.event - INFO - Update id=675292689 is handled. Duration 296 ms by bot id=7604875583
+2025-05-19 00:20:37,454 - aiogram.event - INFO - Update id=675292690 is handled. Duration 296 ms by bot id=7604875583
+2025-05-19 00:20:38,853 - aiogram.event - INFO - Update id=675292691 is handled. Duration 250 ms by bot id=7604875583
+2025-05-19 00:20:39,202 - aiogram.event - INFO - Update id=675292692 is handled. Duration 233 ms by bot id=7604875583
+2025-05-19 00:20:40,705 - aiogram.event - INFO - Update id=675292693 is handled. Duration 233 ms by bot id=7604875583
+2025-05-19 00:20:41,149 - aiogram.event - INFO - Update id=675292694 is handled. Duration 453 ms by bot id=7604875583
+2025-05-19 00:20:41,873 - aiogram.event - INFO - Update id=675292695 is handled. Duration 218 ms by bot id=7604875583
+2025-05-19 00:20:42,489 - aiogram.event - INFO - Update id=675292696 is handled. Duration 250 ms by bot id=7604875583
+2025-05-19 00:20:43,145 - aiogram.event - INFO - Update id=675292697 is handled. Duration 296 ms by bot id=7604875583
+2025-05-19 00:20:43,314 - aiogram.event - INFO - Update id=675292698 is handled. Duration 313 ms by bot id=7604875583
+2025-05-19 00:20:43,406 - aiogram.event - INFO - Update id=675292699 is not handled. Duration 0 ms by bot id=7604875583
+2025-05-19 00:20:43,790 - aiogram.event - INFO - Update id=675292700 is handled. Duration 280 ms by bot id=7604875583
+2025-05-19 00:20:44,651 - aiogram.event - INFO - Update id=675292701 is handled. Duration 359 ms by bot id=7604875583
+2025-05-19 00:20:45,653 - aiogram.event - INFO - Update id=675292702 is handled. Duration 578 ms by bot id=7604875583
+2025-05-19 00:20:47,524 - aiogram.event - INFO - Update id=675292703 is handled. Duration 234 ms by bot id=7604875583
+2025-05-19 00:20:47,642 - aiogram.event - INFO - Update id=675292704 is handled. Duration 235 ms by bot id=7604875583
+2025-05-19 00:20:48,110 - aiogram.event - INFO - Update id=675292705 is handled. Duration 281 ms by bot id=7604875583
+2025-05-19 00:20:48,681 - aiogram.event - INFO - Update id=675292706 is handled. Duration 266 ms by bot id=7604875583
+2025-05-19 00:20:49,691 - aiogram.event - INFO - Update id=675292707 is handled. Duration 468 ms by bot id=7604875583
+2025-05-19 00:20:50,500 - aiogram.event - INFO - Update id=675292708 is handled. Duration 703 ms by bot id=7604875583
+2025-05-19 00:20:50,722 - aiogram.event - INFO - Update id=675292709 is handled. Duration 688 ms by bot id=7604875583
+2025-05-19 00:20:51,221 - aiogram.event - INFO - Update id=675292710 is handled. Duration 235 ms by bot id=7604875583
+2025-05-19 00:20:51,338 - aiogram.event - INFO - Update id=675292711 is handled. Duration 250 ms by bot id=7604875583
+2025-05-19 00:20:53,566 - aiogram.event - INFO - Update id=675292712 is handled. Duration 218 ms by bot id=7604875583
+2025-05-19 00:20:54,617 - aiogram.event - INFO - Update id=675292713 is handled. Duration 233 ms by bot id=7604875583
+2025-05-19 00:20:55,094 - aiogram.event - INFO - Update id=675292714 is handled. Duration 235 ms by bot id=7604875583
+2025-05-19 00:20:55,957 - aiogram.event - INFO - Update id=675292715 is handled. Duration 266 ms by bot id=7604875583
+2025-05-19 00:20:57,212 - aiogram.event - INFO - Update id=675292716 is handled. Duration 235 ms by bot id=7604875583
+2025-05-19 00:20:57,702 - aiogram.event - INFO - Update id=675292717 is handled. Duration 233 ms by bot id=7604875583
+2025-05-19 00:20:58,434 - aiogram.event - INFO - Update id=675292719 is handled. Duration 266 ms by bot id=7604875583
+2025-05-19 00:21:00,355 - aiogram.event - INFO - Update id=675292720 is handled. Duration 234 ms by bot id=7604875583
+2025-05-19 00:21:01,399 - aiogram.event - INFO - Update id=675292721 is handled. Duration 234 ms by bot id=7604875583
+2025-05-19 00:21:03,903 - aiogram.event - INFO - Update id=675292722 is handled. Duration 234 ms by bot id=7604875583
+2025-05-19 00:21:04,658 - aiogram.event - INFO - Update id=675292723 is handled. Duration 234 ms by bot id=7604875583
+2025-05-19 00:21:08,889 - aiogram.event - INFO - Update id=675292718 is handled. Duration 11188 ms by bot id=7604875583
+2025-05-19 00:21:09,361 - aiogram.event - INFO - Update id=675292724 is handled. Duration 639 ms by bot id=7604875583
+2025-05-19 00:21:10,105 - aiogram.event - INFO - Update id=675292725 is handled. Duration 234 ms by bot id=7604875583
+2025-05-19 00:21:11,970 - aiogram.event - INFO - Update id=675292726 is handled. Duration 235 ms by bot id=7604875583
+2025-05-19 00:21:26,128 - aiogram.event - INFO - Update id=675292728 is handled. Duration 453 ms by bot id=7604875583
+2025-05-19 00:21:27,812 - aiogram.event - INFO - Update id=675292727 is handled. Duration 13188 ms by bot id=7604875583
+2025-05-19 00:21:33,632 - aiogram.event - INFO - Update id=675292729 is handled. Duration 2719 ms by bot id=7604875583
+2025-05-19 00:21:35,624 - aiogram.event - INFO - Update id=675292730 is not handled. Duration 0 ms by bot id=7604875583
+2025-05-19 00:21:41,456 - aiogram.event - INFO - Update id=675292731 is not handled. Duration 0 ms by bot id=7604875583
+2025-05-19 00:21:43,472 - aiogram.event - INFO - Update id=675292732 is handled. Duration 406 ms by bot id=7604875583
+2025-05-19 00:21:48,897 - aiogram.event - INFO - Update id=675292733 is handled. Duration 125 ms by bot id=7604875583
+2025-05-19 00:21:50,488 - aiogram.event - INFO - Update id=675292734 is handled. Duration 125 ms by bot id=7604875583
+2025-05-19 00:21:56,514 - aiogram.event - INFO - Update id=675292735 is handled. Duration 2078 ms by bot id=7604875583
+2025-05-19 00:23:04,650 - aiogram.event - INFO - Update id=675292736 is handled. Duration 125 ms by bot id=7604875583
+2025-05-19 00:23:06,588 - aiogram.event - INFO - Update id=675292737 is handled. Duration 141 ms by bot id=7604875583
+2025-05-19 00:23:37,151 - root - INFO - Бот запущен
+2025-05-19 00:23:37,152 - aiogram.dispatcher - INFO - Start polling
+2025-05-19 00:23:37,976 - aiogram.dispatcher - INFO - Run polling for bot @Sportzhangbot id=7604875583 - 'Sport planner | ZhangGroup'
+2025-05-19 00:24:09,211 - aiogram.event - INFO - Update id=675292738 is handled. Duration 344 ms by bot id=7604875583
+2025-05-19 00:24:10,823 - aiogram.event - INFO - Update id=675292739 is handled. Duration 233 ms by bot id=7604875583
+2025-05-19 00:24:11,863 - aiogram.event - INFO - Update id=675292740 is handled. Duration 250 ms by bot id=7604875583
+2025-05-19 00:24:12,556 - aiogram.event - INFO - Update id=675292741 is handled. Duration 250 ms by bot id=7604875583
+2025-05-19 00:24:13,281 - aiogram.event - INFO - Update id=675292742 is handled. Duration 250 ms by bot id=7604875583
+2025-05-19 00:24:15,031 - aiogram.event - INFO - Update id=675292743 is handled. Duration 234 ms by bot id=7604875583
+2025-05-19 00:24:18,903 - aiogram.event - INFO - Update id=675292744 is handled. Duration 343 ms by bot id=7604875583
+2025-05-19 00:24:19,882 - aiogram.event - INFO - Update id=675292745 is handled. Duration 485 ms by bot id=7604875583
+2025-05-19 00:24:20,565 - aiogram.event - INFO - Update id=675292746 is handled. Duration 360 ms by bot id=7604875583
+2025-05-19 00:24:21,186 - aiogram.event - INFO - Update id=675292747 is handled. Duration 250 ms by bot id=7604875583
+2025-05-19 00:24:21,913 - aiogram.event - INFO - Update id=675292748 is handled. Duration 280 ms by bot id=7604875583
+2025-05-19 00:24:26,268 - aiogram.event - INFO - Update id=675292749 is handled. Duration 844 ms by bot id=7604875583
+2025-05-19 00:24:27,292 - aiogram.event - INFO - Update id=675292750 is handled. Duration 827 ms by bot id=7604875583
+2025-05-19 00:24:27,772 - aiogram.event - INFO - Update id=675292751 is handled. Duration 311 ms by bot id=7604875583
+2025-05-19 00:24:28,471 - aiogram.event - INFO - Update id=675292752 is handled. Duration 250 ms by bot id=7604875583
+2025-05-19 00:24:41,062 - aiogram.event - INFO - Update id=675292753 is handled. Duration 11641 ms by bot id=7604875583
+2025-05-19 00:24:46,610 - aiogram.event - INFO - Update id=675292754 is handled. Duration 264 ms by bot id=7604875583
+2025-05-19 00:24:54,426 - aiogram.event - INFO - Update id=675292755 is handled. Duration 1906 ms by bot id=7604875583
+2025-05-19 00:24:56,803 - aiogram.event - INFO - Update id=675292756 is handled. Duration 125 ms by bot id=7604875583
+2025-05-19 00:25:18,521 - aiogram.event - INFO - Update id=675292757 is handled. Duration 311 ms by bot id=7604875583
+2025-05-19 00:25:19,046 - aiogram.event - INFO - Update id=675292758 is handled. Duration 327 ms by bot id=7604875583
+2025-05-19 00:25:20,302 - aiogram.event - INFO - Update id=675292759 is handled. Duration 266 ms by bot id=7604875583
+2025-05-19 00:25:23,876 - aiogram.event - INFO - Update id=675292760 is handled. Duration 233 ms by bot id=7604875583
+2025-05-19 00:25:25,449 - aiogram.event - INFO - Update id=675292761 is handled. Duration 311 ms by bot id=7604875583
+2025-05-19 00:25:26,731 - aiogram.event - INFO - Update id=675292762 is handled. Duration 343 ms by bot id=7604875583
+2025-05-19 00:25:31,715 - aiogram.event - INFO - Update id=675292763 is handled. Duration 328 ms by bot id=7604875583
+2025-05-19 00:25:33,789 - aiogram.event - INFO - Update id=675292764 is handled. Duration 233 ms by bot id=7604875583
+2025-05-19 00:25:37,985 - aiogram.event - INFO - Update id=675292765 is handled. Duration 578 ms by bot id=7604875583
+2025-05-19 00:25:39,110 - aiogram.event - INFO - Update id=675292766 is handled. Duration 639 ms by bot id=7604875583
+2025-05-19 00:25:42,528 - aiogram.event - INFO - Update id=675292767 is handled. Duration 218 ms by bot id=7604875583
+2025-05-19 00:25:43,306 - aiogram.event - INFO - Update id=675292768 is handled. Duration 235 ms by bot id=7604875583
+2025-05-19 00:25:45,649 - aiogram.event - INFO - Update id=675292769 is handled. Duration 234 ms by bot id=7604875583
+2025-05-19 00:25:46,422 - aiogram.event - INFO - Update id=675292770 is handled. Duration 218 ms by bot id=7604875583
+2025-05-19 00:25:49,093 - aiogram.event - INFO - Update id=675292771 is handled. Duration 219 ms by bot id=7604875583
+2025-05-19 00:25:49,894 - aiogram.event - INFO - Update id=675292772 is handled. Duration 219 ms by bot id=7604875583
+2025-05-19 00:25:52,198 - aiogram.event - INFO - Update id=675292773 is handled. Duration 233 ms by bot id=7604875583
+2025-05-19 00:25:52,968 - aiogram.event - INFO - Update id=675292774 is handled. Duration 219 ms by bot id=7604875583
+2025-05-19 00:25:54,773 - aiogram.event - INFO - Update id=675292775 is handled. Duration 234 ms by bot id=7604875583
+2025-05-19 00:25:56,757 - aiogram.event - INFO - Update id=675292776 is handled. Duration 235 ms by bot id=7604875583
+2025-05-19 00:25:58,614 - aiogram.event - INFO - Update id=675292777 is handled. Duration 250 ms by bot id=7604875583
+2025-05-19 00:26:03,780 - aiogram.event - INFO - Update id=675292778 is not handled. Duration 0 ms by bot id=7604875583
+2025-05-19 00:26:11,998 - aiogram.event - INFO - Update id=675292779 is not handled. Duration 0 ms by bot id=7604875583
+2025-05-19 00:26:39,545 - aiogram.event - INFO - Update id=675292781 is handled. Duration 327 ms by bot id=7604875583
+2025-05-19 00:26:41,491 - aiogram.event - INFO - Update id=675292782 is handled. Duration 108 ms by bot id=7604875583
+2025-05-19 00:26:46,607 - aiogram.event - INFO - Update id=675292783 is not handled. Duration 0 ms by bot id=7604875583
+2025-05-19 00:26:47,732 - aiogram.event - INFO - Update id=675292784 is not handled. Duration 0 ms by bot id=7604875583
+2025-05-19 00:26:49,345 - aiogram.event - INFO - Update id=675292785 is not handled. Duration 0 ms by bot id=7604875583
+2025-05-19 00:26:50,277 - aiogram.event - INFO - Update id=675292780 is handled. Duration 12764 ms by bot id=7604875583
+2025-05-19 00:26:58,667 - aiogram.event - INFO - Update id=675292786 is not handled. Duration 0 ms by bot id=7604875583
+2025-05-19 00:27:07,573 - aiogram.event - INFO - Update id=675292787 is not handled. Duration 0 ms by bot id=7604875583
+2025-05-19 00:27:11,693 - aiogram.event - INFO - Update id=675292788 is not handled. Duration 0 ms by bot id=7604875583
+2025-05-19 00:27:13,106 - aiogram.event - INFO - Update id=675292789 is handled. Duration 234 ms by bot id=7604875583
+2025-05-19 00:27:15,029 - aiogram.event - INFO - Update id=675292790 is not handled. Duration 0 ms by bot id=7604875583
+2025-05-19 00:27:19,404 - aiogram.event - INFO - Update id=675292791 is handled. Duration 125 ms by bot id=7604875583
+2025-05-19 00:27:21,750 - aiogram.event - INFO - Update id=675292792 is not handled. Duration 0 ms by bot id=7604875583
+2025-05-19 00:29:24,115 - aiogram.event - INFO - Update id=675292793 is handled. Duration 343 ms by bot id=7604875583
+2025-05-19 00:29:30,849 - aiogram.event - INFO - Update id=675292794 is handled. Duration 139 ms by bot id=7604875583
+2025-05-19 00:29:33,024 - aiogram.event - INFO - Update id=675292795 is handled. Duration 264 ms by bot id=7604875583
+2025-05-19 00:29:51,744 - aiogram.event - INFO - Update id=675292796 is handled. Duration 8296 ms by bot id=7604875583
+2025-05-19 00:30:10,565 - aiogram.event - INFO - Update id=675292797 is handled. Duration 141 ms by bot id=7604875583
+2025-05-19 00:30:12,405 - aiogram.event - INFO - Update id=675292798 is handled. Duration 250 ms by bot id=7604875583
+2025-05-19 00:30:36,422 - aiogram.event - INFO - Update id=675292799 is handled. Duration 7983 ms by bot id=7604875583
+2025-05-19 00:32:34,988 - aiogram.event - INFO - Update id=675292800 is handled. Duration 265 ms by bot id=7604875583
+2025-05-19 00:32:36,614 - aiogram.event - INFO - Update id=675292801 is handled. Duration 265 ms by bot id=7604875583
+2025-05-19 00:33:19,317 - aiogram.event - INFO - Update id=675292802 is handled. Duration 125 ms by bot id=7604875583
+2025-05-19 00:33:22,687 - aiogram.event - INFO - Update id=675292803 is handled. Duration 110 ms by bot id=7604875583
