@@ -5,6 +5,10 @@ from aiogram.fsm.state import State, StatesGroup
 from contextlib import suppress
 from aiogram.exceptions import TelegramBadRequest
 
+from database.database import AsyncSessionLocal
+
+from database.models import User
+
 from keyboards.quiz import (
     question_1,
     question_2,
@@ -14,6 +18,50 @@ from keyboards.quiz import (
     question_6,
     question_7
 )
+
+QUESTION_TEXTS = {
+    1: {
+        1: "Похудение и снижение веса",
+        2: "Набор мышечной массы",
+        3: "Улучшение выносливости",
+        4: "Реабилитация после травм"
+    },
+    2: {
+        1: "Силовые тренировки с железом",
+        2: "Кардио-тренировки",
+        3: "Функциональный тренинг",
+        4: "Йога и растяжка"
+    },
+    3: {
+        1: "Улучшение физической формы",
+        2: "Снижение стресса",
+        3: "Социализация",
+        4: "Подготовка к соревнованиям"
+    },
+    4: {
+        1: "1-2 часа в неделю",
+        2: "3-4 часа в неделю",
+        3: "5-6 часов в неделю",
+        4: "Более 6 часов"
+    },
+    5: {
+        1: "Самостоятельные тренировки",
+        2: "С персональным тренером",
+        3: "Групповые занятия"
+    },
+    6: {
+        1: "Очень важно",
+        2: "Скорее важно",
+        3: "Не имеет значения"
+    },
+    7: {
+        1: "До 18 лет",
+        2: "18-25 лет",
+        3: "26-35 лет",
+        4: "36-45 лет",
+        5: "Старше 45 лет"
+    }
+}
 
 router = Router()
 
@@ -34,7 +82,7 @@ async def edit_quiz_question(
     state: FSMContext,
     answer_key: str
 ):
-    """Общая функция для обработки вопросов"""
+    
     state_data = await state.get_data()
     answered = state_data.get(answer_key)
     
@@ -52,7 +100,7 @@ async def handle_quiz_answer(
     state: FSMContext,
     answer_key: str
 ):
-    """Общая функция для обработки ответов"""
+    
     answer_num = int(callback.data.split("-")[-1])
     
     with suppress(TelegramBadRequest):
@@ -161,19 +209,3 @@ async def handle_q7_answer(callback: CallbackQuery, state: FSMContext):
         callback, 7, question_7, state, 'answered_7'
     )
 
-@router.callback_query(F.data == 'menu')
-async def menu_callback(callback: CallbackQuery, state: FSMContext):
-    count = 0
-    data = await state.get_data()
-    result = '📊 Ваши ответы:\n\n'
-    for key, value in data.items():
-        result += f'{key} : {value}\n'
-        count += 1
-    if count != 7:
-        await callback.answer('Данные не полные!', show_alert = True)
-        return
-    else:
-        callback.message.delete()
-        await callback.message.answer(result)        
-        await callback.answer()
-        await state.clear()

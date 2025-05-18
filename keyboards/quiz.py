@@ -1,6 +1,4 @@
 from aiogram.types import InlineKeyboardMarkup, InlineKeyboardButton
-from aiogram.fsm.context import FSMContext
-from aiogram.fsm.state import State, StatesGroup
 
 def question_1(answered) -> InlineKeyboardMarkup:
     if not answered:
@@ -247,7 +245,8 @@ def question_7(answered) -> InlineKeyboardMarkup:
         [
            InlineKeyboardButton(text = '⬅️', callback_data='quiz-6'),
            InlineKeyboardButton(text = '[ 7 ]', callback_data='pass'),
-           InlineKeyboardButton(text = 'Меню', callback_data='menu'),
-        ]
+           InlineKeyboardButton(text = 'Внести данные', callback_data='menu'),
+           InlineKeyboardButton(text = 'Пройти опрос заново', callback_data='restart'),
+      ]
     )        
     return InlineKeyboardMarkup(inline_keyboard=keyboard)
