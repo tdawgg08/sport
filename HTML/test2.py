@@ -10,8 +10,15 @@ categories = {}
 current_category = None
 
 def get_category():
+    with open('HTML/checker.html', encoding='utf-8') as file:
+        scr = file.read()
+
+    soup = BeautifulSoup(scr, 'lxml')
+
+    categories = {}
+    current_category = None
     for element in soup.find_all(True):
-        if element.name == 'h2' and 'Таблица калорийности:' in element.text:
+        if element.name == 'h2' and 'Таблица калорийности: ' in element.text:
             current_category = element.get_text(strip=True).replace('Таблица калорийности: ', '')   
             
             categories[current_category] = []
@@ -27,15 +34,19 @@ def get_category():
                     if current_category:
                         categories[current_category].append(product_data)
 
+    return categories                        
 
-    list_category = []
-    for category_name, products in categories.items():
-        k = ''.join(c for c in category_name if c.isalnum() or c in (' ', '_')).rstrip().replace(' ', '_')
-        category_dir = f'HTML/categories/{k}'
-        os.makedirs(category_dir, exist_ok=True)  
-        with open(f'{category_dir}/Продукты_категории.html', 'w', encoding='utf-8') as f:
-            for i in products:
-                f.write(str(f'NAME = {i['name']}, LINK = {i['link']}, Class = {i['class']}\n')) 
-        list_category.append(k)               
-    return list_category   
 
+    # list_category = []
+    # for category_name, products in categories.items():
+    #     k = ''.join(c for c in category_name if c.isalnum() or c in (' ', '_')).rstrip().replace(' ', '_')
+    #     category_dir = f'HTML/categories/{k}'
+    #     os.makedirs(category_dir, exist_ok=True)  
+    #     with open(f'{category_dir}/Продукты_категории.html', 'w', encoding='utf-8') as f:
+    #         for i in products:
+    #             f.write(str(f'NAME = {i['name']}, LINK = {i['link']}, Class = {i['class']}\n')) 
+    #     list_category.append(k)               
+    # return list_category   
+
+if __name__ == '__main__':
+    get_category()

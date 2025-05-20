@@ -11,7 +11,6 @@ router = Router()
 
 
 @router.callback_query(F.data == 'menu')
-
 async def menu_callback(callback: types.CallbackQuery, state: FSMContext):
     data = await state.get_data()
     

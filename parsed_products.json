@@ -1,0 +1,722 @@
+[
+  {
+    "name": "Колбаса вареная Delikaiser Три мяса",
+    "protein": "8.0",
+    "fat": "16.0",
+    "carbohydrate": "4.0",
+    "calories": "192",
+    "image": "https://calorizator.ru/sites/default/files/imagecache/product_512/product/sausage-154.jpg",
+    "link": "https://calorizator.ru/product/sausage/sausage-154"
+  },
+  {
+    "name": "Колбаса вареная Велком языковая",
+    "protein": "14.0",
+    "fat": "17.0",
+    "carbohydrate": "0.0",
+    "calories": "210",
+    "image": "https://calorizator.ru/sites/default/files/imagecache/product_512/product/sausage-119.jpg",
+    "link": "https://calorizator.ru/product/sausage/sausage-119"
+  },
+  {
+    "name": "Колбаса вареная Вязанка классическая",
+    "protein": "11.0",
+    "fat": "13.0",
+    "carbohydrate": "0.0",
+    "calories": "161",
+    "image": "https://calorizator.ru/sites/default/files/imagecache/product_512/product/sausage-130.jpg",
+    "link": "https://calorizator.ru/product/sausage/sausage-130"
+  },
+  {
+    "name": "Колбаса вареная Диетическая",
+    "protein": "12.1",
+    "fat": "13.5",
+    "carbohydrate": "0.0",
+    "calories": "170",
+    "image": "https://calorizator.ru/sites/default/files/imagecache/product_512/product/sausage-2.jpg",
+    "link": "https://calorizator.ru/product/sausage/sausage-2"
+  },
+  {
+    "name": "Колбаса вареная Докторская",
+    "protein": "12.8",
+    "fat": "22.2",
+    "carbohydrate": "1.5",
+    "calories": "257",
+    "image": "https://calorizator.ru/sites/default/files/imagecache/product_512/product/sausage-1.jpg",
+    "link": "https://calorizator.ru/product/sausage/sausage-1"
+  },
+  {
+    "name": "Колбаса вареная Докторская Вернер",
+    "protein": "12.0",
+    "fat": "20.0",
+    "carbohydrate": "0.0",
+    "calories": "228",
+    "image": "https://calorizator.ru/sites/default/files/imagecache/product_512/product/sausage-140.jpg",
+    "link": "https://calorizator.ru/product/sausage/sausage-140"
+  },
+  {
+    "name": "Колбаса вареная Докторская Коровино",
+    "protein": "13.0",
+    "fat": "15.0",
+    "carbohydrate": "0.0",
+    "calories": "187",
+    "image": "https://calorizator.ru/sites/default/files/imagecache/product_512/product/sausage-145.jpg",
+    "link": "https://calorizator.ru/product/sausage/sausage-145"
+  },
+  {
+    "name": "Колбаса вареная Идель Мусульманская из мяса птицы",
+    "protein": "10.0",
+    "fat": "15.0",
+    "carbohydrate": "6.0",
+    "calories": "199",
+    "image": "https://calorizator.ru/sites/default/files/imagecache/product_512/product/sausage-152.jpg",
+    "link": "https://calorizator.ru/product/sausage/sausage-152"
+  },
+  {
+    "name": "Колбаса вареная Клинский телячья",
+    "protein": "13.0",
+    "fat": "22.0",
+    "carbohydrate": "0.0",
+    "calories": "252",
+    "image": "https://calorizator.ru/sites/default/files/imagecache/product_512/product/sausage-121.jpg",
+    "link": "https://calorizator.ru/product/sausage/sausage-121"
+  },
+  {
+    "name": "Колбаса вареная Куриная",
+    "protein": "15.5",
+    "fat": "16.2",
+    "carbohydrate": "2.3",
+    "calories": "223",
+    "image": "https://calorizator.ru/sites/default/files/imagecache/product_512/product/sausage-55.jpg",
+    "link": "https://calorizator.ru/product/sausage/sausage-55"
+  },
+  {
+    "name": "Колбаса вареная Любительская",
+    "protein": "12.2",
+    "fat": "28.0",
+    "carbohydrate": "0.1",
+    "calories": "301",
+    "image": "https://calorizator.ru/sites/default/files/imagecache/product_512/product/sausage-3.jpg",
+    "link": "https://calorizator.ru/product/sausage/sausage-3"
+  },
+  {
+    "name": "Колбаса вареная МакЛарин Домашняя",
+    "protein": "8.0",
+    "fat": "20.0",
+    "carbohydrate": "0.0",
+    "calories": "212",
+    "image": "https://calorizator.ru/sites/default/files/imagecache/product_512/product/sausage-143.jpg",
+    "link": "https://calorizator.ru/product/sausage/sausage-143"
+  },
+  {
+    "name": "Колбаса вареная Молочная",
+    "protein": "11.7",
+    "fat": "22.8",
+    "carbohydrate": "0.2",
+    "calories": "252",
+    "image": "https://calorizator.ru/sites/default/files/imagecache/product_512/product/sausage-6.jpg",
+    "link": "https://calorizator.ru/product/sausage/sausage-6"
+  },
+  {
+    "name": "Колбаса вареная Мортаделла",
+    "protein": "16.4",
+    "fat": "25.3",
+    "carbohydrate": "3.1",
+    "calories": "331",
+    "image": "https://calorizator.ru/sites/default/files/imagecache/product_512/product/sausage-48.jpg",
+    "link": "https://calorizator.ru/product/sausage/sausage-48"
+  },
+  {
+    "name": "Колбаса вареная Московская",
+    "protein": "11.5",
+    "fat": "21.8",
+    "carbohydrate": "2.0",
+    "calories": "250",
+    "image": "https://calorizator.ru/sites/default/files/imagecache/product_512/product/sausage-7.jpg",
+    "link": "https://calorizator.ru/product/sausage/sausage-7"
+  },
+  {
+    "name": "Колбаса вареная Русская",
+    "protein": "11.8",
+    "fat": "28.9",
+    "carbohydrate": "0.0",
+    "calories": "302",
+    "image": "https://calorizator.ru/sites/default/files/imagecache/product_512/product/sausage-5.jpg",
+    "link": "https://calorizator.ru/product/sausage/sausage-5"
+  },
+  {
+    "name": "Колбаса вареная Свиная",
+    "protein": "10.8",
+    "fat": "25.8",
+    "carbohydrate": "0.5",
+    "calories": "277",
+    "image": "https://calorizator.ru/sites/default/files/imagecache/product_512/product/sausage-8.jpg",
+    "link": "https://calorizator.ru/product/sausage/sausage-8"
+  },
+  {
+    "name": "Колбаса вареная Столичная",
+    "protein": "15.1",
+    "fat": "28.7",
+    "carbohydrate": "0.0",
+    "calories": "319",
+    "image": "https://calorizator.ru/sites/default/files/imagecache/product_512/product/sausage-10.jpg",
+    "link": "https://calorizator.ru/product/sausage/sausage-10"
+  },
+  {
+    "name": "Колбаса вареная Столовая",
+    "protein": "11.1",
+    "fat": "20.2",
+    "carbohydrate": "1.9",
+    "calories": "234",
+    "image": "https://calorizator.ru/sites/default/files/imagecache/product_512/product/sausage-9.jpg",
+    "link": "https://calorizator.ru/product/sausage/sausage-9"
+  },
+  {
+    "name": "Колбаса вареная Чайная",
+    "protein": "11.7",
+    "fat": "18.4",
+    "carbohydrate": "1.9",
+    "calories": "216",
+    "image": "https://calorizator.ru/sites/default/files/imagecache/product_512/product/sausage-4.jpg",
+    "link": "https://calorizator.ru/product/sausage/sausage-4"
+  },
+  {
+    "name": "Колбаса варено-копченая Востряково из курицы",
+    "protein": "19.0",
+    "fat": "11.0",
+    "carbohydrate": "0.0",
+    "calories": "179",
+    "image": "https://calorizator.ru/sites/default/files/imagecache/product_512/product/sausage-85.jpg",
+    "link": "https://calorizator.ru/product/sausage/sausage-85"
+  },
+  {
+    "name": "Колбаса варено-копченая куриная жареная",
+    "protein": "19.7",
+    "fat": "17.4",
+    "carbohydrate": "1.7",
+    "calories": "371",
+    "image": "https://calorizator.ru/sites/default/files/imagecache/product_512/product/sausage-41.jpg",
+    "link": "https://calorizator.ru/product/sausage/sausage-41"
+  },
+  {
+    "name": "Колбаса варено-копченая Любительская",
+    "protein": "17.2",
+    "fat": "39.0",
+    "carbohydrate": "0.2",
+    "calories": "420",
+    "image": "https://calorizator.ru/sites/default/files/imagecache/product_512/product/sausage-21.jpg",
+    "link": "https://calorizator.ru/product/sausage/sausage-21"
+  },
+  {
+    "name": "Колбаса варено-копченая Московская",
+    "protein": "19.1",
+    "fat": "36.6",
+    "carbohydrate": "0.2",
+    "calories": "406",
+    "image": "https://calorizator.ru/sites/default/files/imagecache/product_512/product/sausage-26.jpg",
+    "link": "https://calorizator.ru/product/sausage/sausage-26"
+  },
+  {
+    "name": "Колбаса варено-копченая Рублёвский Балыковая",
+    "protein": "12.0",
+    "fat": "25.0",
+    "carbohydrate": "0.0",
+    "calories": "270",
+    "image": "https://calorizator.ru/sites/default/files/imagecache/product_512/product/sausage-82.jpg",
+    "link": "https://calorizator.ru/product/sausage/sausage-82"
+  },
+  {
+    "name": "Колбаса варено-копченая сервелат",
+    "protein": "16.1",
+    "fat": "40.1",
+    "carbohydrate": "0.0",
+    "calories": "425",
+    "image": "https://calorizator.ru/sites/default/files/imagecache/product_512/product/sausage-28.jpg",
+    "link": "https://calorizator.ru/product/sausage/sausage-28"
+  },
+  {
+    "name": "Колбаса варено-копченая сервелат боярский",
+    "protein": "14.0",
+    "fat": "21.0",
+    "carbohydrate": "0.0",
+    "calories": "269",
+    "image": "https://calorizator.ru/sites/default/files/imagecache/product_512/product/sausage-40.jpg",
+    "link": "https://calorizator.ru/product/sausage/sausage-40"
+  },
+  {
+    "name": "Колбаса варено-копченая сервелат Велком финский",
+    "protein": "15.0",
+    "fat": "25.5",
+    "carbohydrate": "0.0",
+    "calories": "290",
+    "image": "https://calorizator.ru/sites/default/files/imagecache/product_512/product/sausage-75.jpg",
+    "link": "https://calorizator.ru/product/sausage/sausage-75"
+  },
+  {
+    "name": "Колбаса варено-копченая сервелат Вернер",
+    "protein": "16.0",
+    "fat": "47.0",
+    "carbohydrate": "0.0",
+    "calories": "487",
+    "image": "https://calorizator.ru/sites/default/files/imagecache/product_512/product/sausage-144.jpg",
+    "link": "https://calorizator.ru/product/sausage/sausage-144"
+  },
+  {
+    "name": "Колбаса варено-копченая сервелат Вязанка Столичный",
+    "protein": "15.0",
+    "fat": "27.0",
+    "carbohydrate": "0.0",
+    "calories": "303",
+    "image": "https://calorizator.ru/sites/default/files/imagecache/product_512/product/sausage-84.jpg",
+    "link": "https://calorizator.ru/product/sausage/sausage-84"
+  },
+  {
+    "name": "Колбаса варено-копченая сервелат Дымов в вакууме",
+    "protein": "14.0",
+    "fat": "24.0",
+    "carbohydrate": "0.0",
+    "calories": "272",
+    "image": "https://calorizator.ru/sites/default/files/imagecache/product_512/product/sausage-74.jpg",
+    "link": "https://calorizator.ru/product/sausage/sausage-74"
+  },
+  {
+    "name": "Колбаса варено-копченая сервелат Дымов Ореховый",
+    "protein": "13.0",
+    "fat": "38.0",
+    "carbohydrate": "0.0",
+    "calories": "394",
+    "image": "https://calorizator.ru/sites/default/files/imagecache/product_512/product/sausage-83.jpg",
+    "link": "https://calorizator.ru/product/sausage/sausage-83"
+  },
+  {
+    "name": "Колбаса варено-копченая сервелат Клинский Финский",
+    "protein": "13.0",
+    "fat": "32.0",
+    "carbohydrate": "0.0",
+    "calories": "340",
+    "image": "https://calorizator.ru/sites/default/files/imagecache/product_512/product/sausage-65.jpg",
+    "link": "https://calorizator.ru/product/sausage/sausage-65"
+  },
+  {
+    "name": "Колбаса варено-копченая сервелат Останкино Зернистый",
+    "protein": "10.0",
+    "fat": "37.0",
+    "carbohydrate": "0.0",
+    "calories": "385",
+    "image": "https://calorizator.ru/sites/default/files/imagecache/product_512/product/sausage-71.jpg",
+    "link": "https://calorizator.ru/product/sausage/sausage-71"
+  },
+  {
+    "name": "Колбаса варено-копченая сервелат российский",
+    "protein": "13.0",
+    "fat": "39.0",
+    "carbohydrate": "1.0",
+    "calories": "410",
+    "image": "https://calorizator.ru/sites/default/files/imagecache/product_512/product/sausage-39.jpg",
+    "link": "https://calorizator.ru/product/sausage/sausage-39"
+  },
+  {
+    "name": "Колбаса вегетарианская",
+    "protein": "21.7",
+    "fat": "12.3",
+    "carbohydrate": "1.8",
+    "calories": "207",
+    "image": "https://calorizator.ru/sites/default/files/imagecache/product_512/product/sausage-56.jpg",
+    "link": "https://calorizator.ru/product/sausage/sausage-56"
+  },
+  {
+    "name": "Колбаса вегетарианская Велком Классическая",
+    "protein": "4.0",
+    "fat": "5.0",
+    "carbohydrate": "9.0",
+    "calories": "100",
+    "image": "https://calorizator.ru/sites/default/files/imagecache/product_512/product/sausage-122.jpg",
+    "link": "https://calorizator.ru/product/sausage/sausage-122"
+  },
+  {
+    "name": "Колбаса вегетарианская Велком с грибами",
+    "protein": "4.0",
+    "fat": "5.0",
+    "carbohydrate": "8.0",
+    "calories": "90",
+    "image": "https://calorizator.ru/sites/default/files/imagecache/product_512/product/sausage-123.jpg",
+    "link": "https://calorizator.ru/product/sausage/sausage-123"
+  },
+  {
+    "name": "Колбаса вегетарианская Высший вкус Классика со вкусом Докторской пшеничная",
+    "protein": "17.0",
+    "fat": "15.0",
+    "carbohydrate": "5.0",
+    "calories": "230",
+    "image": "https://calorizator.ru/sites/default/files/imagecache/product_512/product/sausage-153.jpg",
+    "link": "https://calorizator.ru/product/sausage/sausage-153"
+  },
+  {
+    "name": "Колбаса вегетарианская горячего копчения Московская Премиум",
+    "protein": "20.0",
+    "fat": "22.0",
+    "carbohydrate": "8.0",
+    "calories": "210",
+    "image": "https://calorizator.ru/sites/default/files/imagecache/product_512/product/sausage-61.jpg",
+    "link": "https://calorizator.ru/product/sausage/sausage-61"
+  },
+  {
+    "name": "Колбаса вегетарианская полукопченая Vego с сыром постная",
+    "protein": "19.0",
+    "fat": "16.0",
+    "carbohydrate": "12.0",
+    "calories": "270",
+    "image": "https://calorizator.ru/sites/default/files/imagecache/product_512/product/sausage-59.jpg",
+    "link": "https://calorizator.ru/product/sausage/sausage-59"
+  },
+  {
+    "name": "Колбаса ливерная",
+    "protein": "14.4",
+    "fat": "28.5",
+    "carbohydrate": "2.2",
+    "calories": "326",
+    "image": "https://calorizator.ru/sites/default/files/imagecache/product_512/product/sausage-52.jpg",
+    "link": "https://calorizator.ru/product/sausage/sausage-52"
+  },
+  {
+    "name": "Колбаса ливерная Атяшево Печеночная",
+    "protein": "4.0",
+    "fat": "16.0",
+    "carbohydrate": "11.0",
+    "calories": "200",
+    "image": "https://calorizator.ru/sites/default/files/imagecache/product_512/product/sausage-109.jpg",
+    "link": "https://calorizator.ru/product/sausage/sausage-109"
+  },
+  {
+    "name": "Колбаса ливерная Баварская",
+    "protein": "11.0",
+    "fat": "18.0",
+    "carbohydrate": "2.0",
+    "calories": "210",
+    "image": "https://calorizator.ru/sites/default/files/imagecache/product_512/product/sausage-62.jpg",
+    "link": "https://calorizator.ru/product/sausage/sausage-62"
+  },
+  {
+    "name": "Колбаса ливерная Окраина традиционная",
+    "protein": "13.0",
+    "fat": "19.0",
+    "carbohydrate": "6.0",
+    "calories": "250",
+    "image": "https://calorizator.ru/sites/default/files/imagecache/product_512/product/sausage-80.jpg",
+    "link": "https://calorizator.ru/product/sausage/sausage-80"
+  },
+  {
+    "name": "Колбаса ливерная Рублёвский яичная",
+    "protein": "11.0",
+    "fat": "34.0",
+    "carbohydrate": "4.0",
+    "calories": "370",
+    "image": "https://calorizator.ru/sites/default/files/imagecache/product_512/product/sausage-72.jpg",
+    "link": "https://calorizator.ru/product/sausage/sausage-72"
+  },
+  {
+    "name": "Колбаса печеночная домашняя",
+    "protein": "15.0",
+    "fat": "22.0",
+    "carbohydrate": "0.0",
+    "calories": "258",
+    "image": "https://calorizator.ru/sites/default/files/imagecache/product_512/product/sausage-53.jpg",
+    "link": "https://calorizator.ru/product/sausage/sausage-53"
+  },
+  {
+    "name": "Колбаса полукопченая Дымов салями Финская",
+    "protein": "10.0",
+    "fat": "47.0",
+    "carbohydrate": "0.0",
+    "calories": "463",
+    "image": "https://calorizator.ru/sites/default/files/imagecache/product_512/product/sausage-81.jpg",
+    "link": "https://calorizator.ru/product/sausage/sausage-81"
+  },
+  {
+    "name": "Колбаса полукопченая Закусочная",
+    "protein": "15.0",
+    "fat": "33.0",
+    "carbohydrate": "2.3",
+    "calories": "366",
+    "image": "https://calorizator.ru/sites/default/files/imagecache/product_512/product/sausage-20.jpg",
+    "link": "https://calorizator.ru/product/sausage/sausage-20"
+  },
+  {
+    "name": "Колбаса полукопченая Краковская",
+    "protein": "16.2",
+    "fat": "44.6",
+    "carbohydrate": "0.0",
+    "calories": "466",
+    "image": "https://calorizator.ru/sites/default/files/imagecache/product_512/product/sausage-25.jpg",
+    "link": "https://calorizator.ru/product/sausage/sausage-25"
+  },
+  {
+    "name": "Колбаса полукопченая Краковская Вернер",
+    "protein": "14.0",
+    "fat": "45.0",
+    "carbohydrate": "0.0",
+    "calories": "461",
+    "image": "https://calorizator.ru/sites/default/files/imagecache/product_512/product/sausage-139.jpg",
+    "link": "https://calorizator.ru/product/sausage/sausage-139"
+  },
+  {
+    "name": "Колбаса полукопченая Краковская МД Бородина",
+    "protein": "16.0",
+    "fat": "27.0",
+    "carbohydrate": "0.0",
+    "calories": "307",
+    "image": "https://calorizator.ru/sites/default/files/imagecache/product_512/product/sausage-79.jpg",
+    "link": "https://calorizator.ru/product/sausage/sausage-79"
+  },
+  {
+    "name": "Колбаса полукопченая Минская",
+    "protein": "17.4",
+    "fat": "23.0",
+    "carbohydrate": "2.7",
+    "calories": "287",
+    "image": "https://calorizator.ru/sites/default/files/imagecache/product_512/product/sausage-27.jpg",
+    "link": "https://calorizator.ru/product/sausage/sausage-27"
+  },
+  {
+    "name": "Колбаса полукопченая Одесская",
+    "protein": "14.8",
+    "fat": "38.1",
+    "carbohydrate": "0.3",
+    "calories": "402",
+    "image": "https://calorizator.ru/sites/default/files/imagecache/product_512/product/sausage-22.jpg",
+    "link": "https://calorizator.ru/product/sausage/sausage-22"
+  },
+  {
+    "name": "Колбаса полукопченая Останкино салями Венская",
+    "protein": "10.0",
+    "fat": "37.0",
+    "carbohydrate": "0.0",
+    "calories": "390",
+    "image": "https://calorizator.ru/sites/default/files/imagecache/product_512/product/sausage-78.jpg",
+    "link": "https://calorizator.ru/product/sausage/sausage-78"
+  },
+  {
+    "name": "Колбаса полукопченая Полтавская",
+    "protein": "16.4",
+    "fat": "39.0",
+    "carbohydrate": "0.0",
+    "calories": "417",
+    "image": "https://calorizator.ru/sites/default/files/imagecache/product_512/product/sausage-24.jpg",
+    "link": "https://calorizator.ru/product/sausage/sausage-24"
+  },
+  {
+    "name": "Колбаса полукопченая салями любительская",
+    "protein": "12.0",
+    "fat": "50.0",
+    "carbohydrate": "0.0",
+    "calories": "498",
+    "image": "https://calorizator.ru/sites/default/files/imagecache/product_512/product/sausage-43.jpg",
+    "link": "https://calorizator.ru/product/sausage/sausage-43"
+  },
+  {
+    "name": "Колбаса полукопченая Таллиннская",
+    "protein": "17.1",
+    "fat": "33.8",
+    "carbohydrate": "0.2",
+    "calories": "373",
+    "image": "https://calorizator.ru/sites/default/files/imagecache/product_512/product/sausage-29.jpg",
+    "link": "https://calorizator.ru/product/sausage/sausage-29"
+  },
+  {
+    "name": "Колбаса полукопченая Украинская",
+    "protein": "16.5",
+    "fat": "34.4",
+    "carbohydrate": "0.0",
+    "calories": "376",
+    "image": "https://calorizator.ru/sites/default/files/imagecache/product_512/product/sausage-23.jpg",
+    "link": "https://calorizator.ru/product/sausage/sausage-23"
+  },
+  {
+    "name": "Колбаса полукопченая Чесночная Папа может",
+    "protein": "12.0",
+    "fat": "21.0",
+    "carbohydrate": "3.0",
+    "calories": "249",
+    "image": "https://calorizator.ru/sites/default/files/imagecache/product_512/product/sausage-146.jpg",
+    "link": "https://calorizator.ru/product/sausage/sausage-146"
+  },
+  {
+    "name": "Колбаса сыровяленая Дымов салями Милано",
+    "protein": "21.0",
+    "fat": "28.0",
+    "carbohydrate": "2.0",
+    "calories": "344",
+    "image": "https://calorizator.ru/sites/default/files/imagecache/product_512/product/sausage-66.jpg",
+    "link": "https://calorizator.ru/product/sausage/sausage-66"
+  },
+  {
+    "name": "Колбаса сыровяленая Мясницкий ряд Милано нарезка",
+    "protein": "15.0",
+    "fat": "45.0",
+    "carbohydrate": "0.0",
+    "calories": "465",
+    "image": "https://calorizator.ru/sites/default/files/imagecache/product_512/product/sausage-108.jpg",
+    "link": "https://calorizator.ru/product/sausage/sausage-108"
+  },
+  {
+    "name": "Колбаса сыровяленая полусухая Casademont Fuet Extra",
+    "protein": "24.0",
+    "fat": "32.0",
+    "carbohydrate": "0.0",
+    "calories": "384",
+    "image": "https://calorizator.ru/sites/default/files/imagecache/product_512/product/sausage-95.jpg",
+    "link": "https://calorizator.ru/product/sausage/sausage-95"
+  },
+  {
+    "name": "Колбаса сыровяленая полусухая Casademont Fuet Extra с перцем",
+    "protein": "22.0",
+    "fat": "32.0",
+    "carbohydrate": "0.0",
+    "calories": "376",
+    "image": "https://calorizator.ru/sites/default/files/imagecache/product_512/product/sausage-104.jpg",
+    "link": "https://calorizator.ru/product/sausage/sausage-104"
+  },
+  {
+    "name": "Колбаса сыровяленая полусухая Parlo Italiano Салями Милано",
+    "protein": "10.0",
+    "fat": "55.0",
+    "carbohydrate": "0.0",
+    "calories": "540",
+    "image": "https://calorizator.ru/sites/default/files/imagecache/product_512/product/sausage-105.jpg",
+    "link": "https://calorizator.ru/product/sausage/sausage-105"
+  },
+  {
+    "name": "Колбаса сыровяленая полусухая Salumi di Bosco Салями традиционная",
+    "protein": "28.0",
+    "fat": "19.0",
+    "carbohydrate": "1.0",
+    "calories": "290",
+    "image": "https://calorizator.ru/sites/default/files/imagecache/product_512/product/sausage-103.jpg",
+    "link": "https://calorizator.ru/product/sausage/sausage-103"
+  },
+  {
+    "name": "Колбаса сыровяленая полусухая Егорьевская ФКГ с трюфелем",
+    "protein": "16.0",
+    "fat": "40.0",
+    "carbohydrate": "1.0",
+    "calories": "428",
+    "image": "https://calorizator.ru/sites/default/files/imagecache/product_512/product/sausage-96.jpg",
+    "link": "https://calorizator.ru/product/sausage/sausage-96"
+  },
+  {
+    "name": "Колбаса сыровяленая Сальчичон",
+    "protein": "17.0",
+    "fat": "31.0",
+    "carbohydrate": "1.1",
+    "calories": "351",
+    "image": "https://calorizator.ru/sites/default/files/imagecache/product_512/product/sausage-49.jpg",
+    "link": "https://calorizator.ru/product/sausage/sausage-49"
+  },
+  {
+    "name": "Колбаса сыровяленая Суджук",
+    "protein": "30.3",
+    "fat": "37.9",
+    "carbohydrate": "0.0",
+    "calories": "463",
+    "image": "https://calorizator.ru/sites/default/files/imagecache/product_512/product/sausage-50.jpg",
+    "link": "https://calorizator.ru/product/sausage/sausage-50"
+  },
+  {
+    "name": "Колбаса сыровяленая Сытный Дом Сопресатта из говядины",
+    "protein": "18.0",
+    "fat": "35.0",
+    "carbohydrate": "0.2",
+    "calories": "402",
+    "image": "https://calorizator.ru/sites/default/files/imagecache/product_512/product/sausage-107.jpg",
+    "link": "https://calorizator.ru/product/sausage/sausage-107"
+  },
+  {
+    "name": "Колбаса сыровяленая Чоризо",
+    "protein": "24.1",
+    "fat": "38.3",
+    "carbohydrate": "1.9",
+    "calories": "455",
+    "image": "https://calorizator.ru/sites/default/files/imagecache/product_512/product/sausage-51.jpg",
+    "link": "https://calorizator.ru/product/sausage/sausage-51"
+  },
+  {
+    "name": "Колбаса сырокопченая Ближние горки Тоскана",
+    "protein": "25.0",
+    "fat": "30.0",
+    "carbohydrate": "0.0",
+    "calories": "370",
+    "image": "https://calorizator.ru/sites/default/files/imagecache/product_512/product/sausage-137.jpg",
+    "link": "https://calorizator.ru/product/sausage/sausage-137"
+  },
+  {
+    "name": "Колбаса сырокопченая брауншвейгская",
+    "protein": "27.7",
+    "fat": "42.2",
+    "carbohydrate": "0.2",
+    "calories": "491",
+    "image": "https://calorizator.ru/sites/default/files/imagecache/product_512/product/sausage-47.jpg",
+    "link": "https://calorizator.ru/product/sausage/sausage-47"
+  },
+  {
+    "name": "Колбаса сырокопченая Доброгост Пепперони",
+    "protein": "16.0",
+    "fat": "46.0",
+    "carbohydrate": "0.0",
+    "calories": "480",
+    "image": "https://calorizator.ru/sites/default/files/imagecache/product_512/product/sausage-114.jpg",
+    "link": "https://calorizator.ru/product/sausage/sausage-114"
+  },
+  {
+    "name": "Колбаса сырокопченая Дым Дымыч Европейская и с фундуком в нарезке",
+    "protein": "23.0",
+    "fat": "35.0",
+    "carbohydrate": "0.0",
+    "calories": "407",
+    "image": "https://calorizator.ru/sites/default/files/imagecache/product_512/product/sausage-158.jpg",
+    "link": "https://calorizator.ru/product/sausage/sausage-158"
+  },
+  {
+    "name": "Колбаса сырокопченая Дымов Классик",
+    "protein": "24.0",
+    "fat": "26.0",
+    "carbohydrate": "0.0",
+    "calories": "330",
+    "image": "https://calorizator.ru/sites/default/files/imagecache/product_512/product/sausage-141.jpg",
+    "link": "https://calorizator.ru/product/sausage/sausage-141"
+  },
+  {
+    "name": "Колбаса сырокопченая Дымов Пепперони",
+    "protein": "15.0",
+    "fat": "45.0",
+    "carbohydrate": "0.0",
+    "calories": "465",
+    "image": "https://calorizator.ru/sites/default/files/imagecache/product_512/product/sausage-86.jpg",
+    "link": "https://calorizator.ru/product/sausage/sausage-86"
+  },
+  {
+    "name": "Колбаса сырокопченая зернистая",
+    "protein": "9.9",
+    "fat": "62.8",
+    "carbohydrate": "0.3",
+    "calories": "606",
+    "image": "https://calorizator.ru/sites/default/files/imagecache/product_512/product/sausage-30.jpg",
+    "link": "https://calorizator.ru/product/sausage/sausage-30"
+  },
+  {
+    "name": "Колбаса сырокопченая Клинский свиная",
+    "protein": "11.0",
+    "fat": "57.3",
+    "carbohydrate": "0.0",
+    "calories": "568",
+    "image": "https://calorizator.ru/sites/default/files/imagecache/product_512/product/sausage-76.jpg",
+    "link": "https://calorizator.ru/product/sausage/sausage-76"
+  },
+  {
+    "name": "Колбаса сырокопченая любительская",
+    "protein": "20.9",
+    "fat": "47.8",
+    "carbohydrate": "0.0",
+    "calories": "514",
+    "image": "https://calorizator.ru/sites/default/files/imagecache/product_512/product/sausage-31.jpg",
+    "link": "https://calorizator.ru/product/sausage/sausage-31"
+  }
+]

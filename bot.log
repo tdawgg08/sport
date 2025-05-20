@@ -1535,3 +1535,1555 @@ CREATE TABLE products (
 2025-05-19 00:32:36,614 - aiogram.event - INFO - Update id=675292801 is handled. Duration 265 ms by bot id=7604875583
 2025-05-19 00:33:19,317 - aiogram.event - INFO - Update id=675292802 is handled. Duration 125 ms by bot id=7604875583
 2025-05-19 00:33:22,687 - aiogram.event - INFO - Update id=675292803 is handled. Duration 110 ms by bot id=7604875583
+2025-05-19 14:59:13,124 - root - INFO - Бот запущен
+2025-05-19 14:59:13,124 - aiogram.dispatcher - INFO - Start polling
+2025-05-19 14:59:13,667 - aiogram.dispatcher - INFO - Run polling for bot @Sportzhangbot id=7604875583 - 'Sport planner | ZhangGroup'
+2025-05-19 15:01:15,038 - aiogram.event - INFO - Update id=675292804 is handled. Duration 514 ms by bot id=7604875583
+2025-05-19 15:01:16,874 - aiogram.event - INFO - Update id=675292805 is handled. Duration 312 ms by bot id=7604875583
+2025-05-19 15:01:18,501 - aiogram.event - INFO - Update id=675292806 is handled. Duration 296 ms by bot id=7604875583
+2025-05-19 15:01:20,062 - aiogram.event - INFO - Update id=675292807 is handled. Duration 327 ms by bot id=7604875583
+2025-05-19 15:01:20,765 - aiogram.event - INFO - Update id=675292808 is handled. Duration 296 ms by bot id=7604875583
+2025-05-19 15:01:21,494 - aiogram.event - INFO - Update id=675292809 is handled. Duration 328 ms by bot id=7604875583
+2025-05-19 15:01:22,336 - aiogram.event - INFO - Update id=675292810 is handled. Duration 311 ms by bot id=7604875583
+2025-05-19 15:01:23,394 - aiogram.event - INFO - Update id=675292811 is handled. Duration 328 ms by bot id=7604875583
+2025-05-19 15:01:24,451 - aiogram.event - INFO - Update id=675292812 is handled. Duration 296 ms by bot id=7604875583
+2025-05-19 15:01:25,421 - aiogram.event - INFO - Update id=675292813 is handled. Duration 296 ms by bot id=7604875583
+2025-05-19 15:01:26,189 - aiogram.event - INFO - Update id=675292814 is handled. Duration 296 ms by bot id=7604875583
+2025-05-19 15:01:30,206 - aiogram.event - INFO - Update id=675292815 is handled. Duration 313 ms by bot id=7604875583
+2025-05-19 15:01:34,747 - aiogram.event - INFO - Update id=675292816 is handled. Duration 312 ms by bot id=7604875583
+2025-05-19 15:01:36,687 - aiogram.event - INFO - Update id=675292817 is handled. Duration 327 ms by bot id=7604875583
+2025-05-19 15:01:38,044 - aiogram.event - INFO - Update id=675292818 is handled. Duration 375 ms by bot id=7604875583
+2025-05-19 15:01:39,261 - aiogram.event - INFO - Update id=675292819 is handled. Duration 421 ms by bot id=7604875583
+2025-05-19 15:01:41,140 - aiogram.event - INFO - Update id=675292820 is handled. Duration 311 ms by bot id=7604875583
+2025-05-19 15:01:44,779 - aiogram.event - INFO - Update id=675292821 is handled. Duration 360 ms by bot id=7604875583
+2025-05-19 15:02:03,425 - aiogram.event - INFO - Update id=675292822 is handled. Duration 16953 ms by bot id=7604875583
+2025-05-19 15:02:37,236 - aiogram.event - INFO - Update id=675292823 is handled. Duration 313 ms by bot id=7604875583
+2025-05-19 15:02:39,664 - aiogram.event - INFO - Update id=675292824 is handled. Duration 328 ms by bot id=7604875583
+2025-05-19 15:04:10,995 - aiogram.event - INFO - Update id=675292825 is handled. Duration 3639 ms by bot id=7604875583
+2025-05-19 15:28:43,558 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2025-05-19 15:28:43,563 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7604875583)
+2025-05-19 15:28:55,135 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 7604875583)
+2025-05-19 16:25:20,137 - root - INFO - Бот запущен
+2025-05-19 16:25:20,137 - aiogram.dispatcher - INFO - Start polling
+2025-05-19 16:25:20,599 - aiogram.dispatcher - INFO - Run polling for bot @Sportzhangbot id=7604875583 - 'Sport planner | ZhangGroup'
+2025-05-19 16:25:46,968 - aiogram.event - INFO - Update id=675292826 is handled. Duration 468 ms by bot id=7604875583
+2025-05-19 16:25:48,089 - aiogram.event - INFO - Update id=675292827 is not handled. Duration 0 ms by bot id=7604875583
+2025-05-19 16:25:57,074 - aiogram.event - INFO - Update id=675292828 is not handled. Duration 0 ms by bot id=7604875583
+2025-05-19 16:26:07,719 - aiogram.event - INFO - Update id=675292829 is not handled. Duration 0 ms by bot id=7604875583
+2025-05-19 16:26:36,457 - aiogram.event - INFO - Update id=675292830 is not handled. Duration 0 ms by bot id=7604875583
+2025-05-19 16:26:39,797 - aiogram.event - INFO - Update id=675292831 is not handled. Duration 0 ms by bot id=7604875583
+2025-05-19 16:27:05,160 - aiogram.event - INFO - Update id=675292832 is not handled. Duration 14 ms by bot id=7604875583
+2025-05-19 16:39:21,762 - root - INFO - Бот запущен
+2025-05-19 16:39:21,764 - aiogram.dispatcher - INFO - Start polling
+2025-05-19 16:39:22,310 - aiogram.dispatcher - INFO - Run polling for bot @Sportzhangbot id=7604875583 - 'Sport planner | ZhangGroup'
+2025-05-19 16:39:42,220 - aiogram.event - INFO - Update id=675292833 is handled. Duration 468 ms by bot id=7604875583
+2025-05-19 16:39:43,517 - aiogram.event - INFO - Update id=675292834 is handled. Duration 405 ms by bot id=7604875583
+2025-05-19 16:39:45,475 - aiogram.event - INFO - Update id=675292835 is handled. Duration 469 ms by bot id=7604875583
+2025-05-19 16:39:46,426 - aiogram.event - INFO - Update id=675292836 is handled. Duration 405 ms by bot id=7604875583
+2025-05-19 16:39:47,297 - aiogram.event - INFO - Update id=675292837 is handled. Duration 343 ms by bot id=7604875583
+2025-05-19 16:39:48,097 - aiogram.event - INFO - Update id=675292838 is handled. Duration 343 ms by bot id=7604875583
+2025-05-19 16:39:48,940 - aiogram.event - INFO - Update id=675292839 is handled. Duration 358 ms by bot id=7604875583
+2025-05-19 16:39:49,698 - aiogram.event - INFO - Update id=675292840 is handled. Duration 328 ms by bot id=7604875583
+2025-05-19 16:39:50,522 - aiogram.event - INFO - Update id=675292841 is handled. Duration 313 ms by bot id=7604875583
+2025-05-19 16:39:52,265 - aiogram.event - INFO - Update id=675292842 is handled. Duration 328 ms by bot id=7604875583
+2025-05-19 16:39:53,461 - aiogram.event - INFO - Update id=675292843 is handled. Duration 483 ms by bot id=7604875583
+2025-05-19 16:39:54,376 - aiogram.event - INFO - Update id=675292844 is handled. Duration 609 ms by bot id=7604875583
+2025-05-19 16:39:55,107 - aiogram.event - INFO - Update id=675292845 is handled. Duration 297 ms by bot id=7604875583
+2025-05-19 16:39:56,030 - aiogram.event - INFO - Update id=675292846 is handled. Duration 313 ms by bot id=7604875583
+2025-05-19 16:39:56,896 - aiogram.event - INFO - Update id=675292847 is handled. Duration 313 ms by bot id=7604875583
+2025-05-19 16:40:14,034 - aiogram.event - INFO - Update id=675292848 is handled. Duration 16485 ms by bot id=7604875583
+2025-05-19 16:40:15,494 - aiogram.event - INFO - Update id=675292849 is not handled. Duration 14 ms by bot id=7604875583
+2025-05-19 16:42:19,338 - aiogram.dispatcher - INFO - Polling stopped
+2025-05-19 16:42:19,475 - aiogram.dispatcher - INFO - Polling stopped for bot @Sportzhangbot id=7604875583 - 'Sport planner | ZhangGroup'
+2025-05-19 16:42:19,476 - root - INFO - Бот остановлен
+2025-05-19 16:42:24,270 - root - INFO - Бот запущен
+2025-05-19 16:42:24,271 - aiogram.dispatcher - INFO - Start polling
+2025-05-19 16:42:24,769 - aiogram.dispatcher - INFO - Run polling for bot @Sportzhangbot id=7604875583 - 'Sport planner | ZhangGroup'
+2025-05-19 16:42:26,429 - aiogram.event - INFO - Update id=675292850 is not handled. Duration 15 ms by bot id=7604875583
+2025-05-19 16:42:26,429 - aiogram.event - ERROR - Cause exception while process update id=675292850 by bot id=7604875583
+AttributeError: type object 'UserTodo' has no attribute 'tg_user_id'
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "c:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\handlers\todo.py", line 185, in show_todo_menu
+    await get_or_create_user(message.from_user.id, message.from_user.username)
+  File "c:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\handlers\todo.py", line 24, in get_or_create_user
+    select(UserTodo).where(UserTodo.tg_user_id == user_id)
+                           ^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'UserTodo' has no attribute 'tg_user_id'. Did you mean: 'user_id'?
+2025-05-19 16:43:22,292 - root - INFO - Бот запущен
+2025-05-19 16:43:22,292 - aiogram.dispatcher - INFO - Start polling
+2025-05-19 16:43:22,800 - aiogram.dispatcher - INFO - Run polling for bot @Sportzhangbot id=7604875583 - 'Sport planner | ZhangGroup'
+2025-05-19 16:43:25,271 - aiogram.event - INFO - Update id=675292851 is not handled. Duration 16 ms by bot id=7604875583
+2025-05-19 16:43:25,271 - aiogram.event - ERROR - Cause exception while process update id=675292851 by bot id=7604875583
+InvalidRequestError: Mapper 'Mapper[SubCategory(sub_categories)]' has no property 'products'.  If this property was indicated from other mappers or configure events, ensure registry.configure() has been called.
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\orm\mapper.py", line 2522, in get_property
+    return self._props[key]
+           ~~~~~~~~~~~^^^^^
+KeyError: 'products'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "c:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\handlers\todo.py", line 185, in show_todo_menu
+    await get_or_create_user(message.from_user.id, message.from_user.username)
+  File "c:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\handlers\todo.py", line 23, in get_or_create_user
+    user = await session.scalar(
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\ext\asyncio\session.py", line 519, in scalar
+    return await greenlet_spawn(
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\util\_concurrency_py3k.py", line 190, in greenlet_spawn
+    result = context.switch(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\orm\session.py", line 2413, in scalar
+    return self._execute_internal(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\orm\session.py", line 2251, in _execute_internal
+    result: Result[Any] = compile_state_cls.orm_execute_statement(
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\orm\context.py", line 306, in orm_execute_statement
+    result = conn.execute(
+             ^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\engine\base.py", line 1416, in execute
+    return meth(
+           ^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\sql\elements.py", line 523, in _execute_on_connection
+    return connection._execute_clauseelement(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\engine\base.py", line 1630, in _execute_clauseelement
+    compiled_sql, extracted_params, cache_hit = elem._compile_w_cache(
+                                                ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\sql\elements.py", line 711, in _compile_w_cache
+    compiled_sql = self._compiler(
+                   ^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\sql\elements.py", line 320, in _compiler
+    return dialect.statement_compiler(dialect, self, **kw)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\sql\compiler.py", line 1446, in __init__
+    Compiled.__init__(self, dialect, statement, **kwargs)
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\sql\compiler.py", line 886, in __init__
+    self.string = self.process(self.statement, **compile_kwargs)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\sql\compiler.py", line 932, in process
+    return obj._compiler_dispatch(self, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\sql\visitors.py", line 141, in _compiler_dispatch
+    return meth(self, **kw)  # type: ignore  # noqa: E501
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\sql\compiler.py", line 4728, in visit_select
+    compile_state = select_stmt._compile_state_factory(
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\sql\base.py", line 686, in create_for_statement
+    return klass.create_for_statement(statement, compiler, **kw)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\orm\context.py", line 447, in create_for_statement
+    return cls._create_orm_context(
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\orm\context.py", line 1175, in _create_orm_context
+    _QueryEntity.to_compile_state(
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\orm\context.py", line 2630, in to_compile_state
+    _MapperEntity(
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\orm\context.py", line 2710, in __init__
+    entity._post_inspect
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\util\langhelpers.py", line 1257, in __get__
+    obj.__dict__[self.__name__] = result = self.fget(obj)
+                                           ^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\orm\mapper.py", line 2724, in _post_inspect
+    self._check_configure()
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\orm\mapper.py", line 2401, in _check_configure
+    _configure_registries({self.registry}, cascade=True)
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\orm\mapper.py", line 4214, in _configure_registries
+    _do_configure_registries(registries, cascade)
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\orm\mapper.py", line 4255, in _do_configure_registries
+    mapper._post_configure_properties()
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\orm\mapper.py", line 2418, in _post_configure_properties
+    prop.init()
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\orm\interfaces.py", line 589, in init
+    self.do_init()
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\orm\relationships.py", line 1661, in do_init
+    self._generate_backref()
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\orm\relationships.py", line 2147, in _generate_backref
+    self._add_reverse_property(self.back_populates)
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\orm\relationships.py", line 1592, in _add_reverse_property
+    other = self.mapper.get_property(key, _configure_mappers=False)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\orm\mapper.py", line 2524, in get_property
+    raise sa_exc.InvalidRequestError(
+sqlalchemy.exc.InvalidRequestError: Mapper 'Mapper[SubCategory(sub_categories)]' has no property 'products'.  If this property was indicated from other mappers or configure events, ensure registry.configure() has been called.
+2025-05-19 16:43:51,303 - root - INFO - Бот запущен
+2025-05-19 16:43:51,304 - aiogram.dispatcher - INFO - Start polling
+2025-05-19 16:43:51,783 - aiogram.dispatcher - INFO - Run polling for bot @Sportzhangbot id=7604875583 - 'Sport planner | ZhangGroup'
+2025-05-19 16:43:53,207 - aiogram.event - INFO - Update id=675292852 is handled. Duration 468 ms by bot id=7604875583
+2025-05-19 16:43:55,818 - aiogram.event - INFO - Update id=675292853 is handled. Duration 468 ms by bot id=7604875583
+2025-05-19 16:43:58,118 - aiogram.event - INFO - Update id=675292854 is handled. Duration 328 ms by bot id=7604875583
+2025-05-19 16:43:58,900 - aiogram.event - INFO - Update id=675292855 is handled. Duration 344 ms by bot id=7604875583
+2025-05-19 16:43:59,813 - aiogram.event - INFO - Update id=675292856 is handled. Duration 296 ms by bot id=7604875583
+2025-05-19 16:44:00,631 - aiogram.event - INFO - Update id=675292857 is handled. Duration 358 ms by bot id=7604875583
+2025-05-19 16:44:01,562 - aiogram.event - INFO - Update id=675292858 is handled. Duration 327 ms by bot id=7604875583
+2025-05-19 16:44:02,653 - aiogram.event - INFO - Update id=675292859 is handled. Duration 391 ms by bot id=7604875583
+2025-05-19 16:44:03,568 - aiogram.event - INFO - Update id=675292860 is handled. Duration 391 ms by bot id=7604875583
+2025-05-19 16:44:04,367 - aiogram.event - INFO - Update id=675292861 is handled. Duration 296 ms by bot id=7604875583
+2025-05-19 16:44:05,222 - aiogram.event - INFO - Update id=675292862 is handled. Duration 296 ms by bot id=7604875583
+2025-05-19 16:44:09,506 - aiogram.event - INFO - Update id=675292863 is handled. Duration 483 ms by bot id=7604875583
+2025-05-19 16:44:15,271 - aiogram.event - INFO - Update id=675292864 is handled. Duration 485 ms by bot id=7604875583
+2025-05-19 16:44:16,303 - aiogram.event - INFO - Update id=675292865 is handled. Duration 452 ms by bot id=7604875583
+2025-05-19 16:44:17,411 - aiogram.event - INFO - Update id=675292866 is handled. Duration 311 ms by bot id=7604875583
+2025-05-19 16:45:29,313 - aiogram.event - INFO - Update id=675292867 is handled. Duration 17358 ms by bot id=7604875583
+2025-05-19 16:45:32,139 - aiogram.event - INFO - Update id=675292868 is not handled. Duration 0 ms by bot id=7604875583
+2025-05-19 16:45:32,140 - aiogram.event - ERROR - Cause exception while process update id=675292868 by bot id=7604875583
+InvalidRequestError: One or more mappers failed to initialize - can't proceed with initialization of other mappers. Triggering mapper: 'Mapper[Product(products)]'. Original exception was: Mapper 'Mapper[SubCategory(sub_categories)]' has no property 'products'.  If this property was indicated from other mappers or configure events, ensure registry.configure() has been called.
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "c:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\handlers\todo.py", line 185, in show_todo_menu
+    await get_or_create_user(message.from_user.id, message.from_user.username)
+  File "c:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\handlers\todo.py", line 23, in get_or_create_user
+    user = await session.scalar(
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\ext\asyncio\session.py", line 519, in scalar
+    return await greenlet_spawn(
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\util\_concurrency_py3k.py", line 190, in greenlet_spawn
+    result = context.switch(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\orm\session.py", line 2413, in scalar
+    return self._execute_internal(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\orm\session.py", line 2251, in _execute_internal
+    result: Result[Any] = compile_state_cls.orm_execute_statement(
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\orm\context.py", line 306, in orm_execute_statement
+    result = conn.execute(
+             ^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\engine\base.py", line 1416, in execute
+    return meth(
+           ^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\sql\elements.py", line 523, in _execute_on_connection
+    return connection._execute_clauseelement(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\engine\base.py", line 1630, in _execute_clauseelement
+    compiled_sql, extracted_params, cache_hit = elem._compile_w_cache(
+                                                ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\sql\elements.py", line 711, in _compile_w_cache
+    compiled_sql = self._compiler(
+                   ^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\sql\elements.py", line 320, in _compiler
+    return dialect.statement_compiler(dialect, self, **kw)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\sql\compiler.py", line 1446, in __init__
+    Compiled.__init__(self, dialect, statement, **kwargs)
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\sql\compiler.py", line 886, in __init__
+    self.string = self.process(self.statement, **compile_kwargs)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\sql\compiler.py", line 932, in process
+    return obj._compiler_dispatch(self, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\sql\visitors.py", line 141, in _compiler_dispatch
+    return meth(self, **kw)  # type: ignore  # noqa: E501
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\sql\compiler.py", line 4728, in visit_select
+    compile_state = select_stmt._compile_state_factory(
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\sql\base.py", line 686, in create_for_statement
+    return klass.create_for_statement(statement, compiler, **kw)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\orm\context.py", line 447, in create_for_statement
+    return cls._create_orm_context(
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\orm\context.py", line 1175, in _create_orm_context
+    _QueryEntity.to_compile_state(
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\orm\context.py", line 2630, in to_compile_state
+    _MapperEntity(
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\orm\context.py", line 2710, in __init__
+    entity._post_inspect
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\util\langhelpers.py", line 1257, in __get__
+    obj.__dict__[self.__name__] = result = self.fget(obj)
+                                           ^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\orm\mapper.py", line 2724, in _post_inspect
+    self._check_configure()
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\orm\mapper.py", line 2401, in _check_configure
+    _configure_registries({self.registry}, cascade=True)
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\orm\mapper.py", line 4214, in _configure_registries
+    _do_configure_registries(registries, cascade)
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\orm\mapper.py", line 4251, in _do_configure_registries
+    raise e
+sqlalchemy.exc.InvalidRequestError: One or more mappers failed to initialize - can't proceed with initialization of other mappers. Triggering mapper: 'Mapper[Product(products)]'. Original exception was: Mapper 'Mapper[SubCategory(sub_categories)]' has no property 'products'.  If this property was indicated from other mappers or configure events, ensure registry.configure() has been called.
+2025-05-19 16:51:40,011 - aiogram.event - INFO - Update id=675292869 is handled. Duration 358 ms by bot id=7604875583
+2025-05-19 16:51:41,622 - aiogram.event - INFO - Update id=675292870 is handled. Duration 375 ms by bot id=7604875583
+2025-05-19 16:51:42,941 - aiogram.event - INFO - Update id=675292871 is not handled. Duration 0 ms by bot id=7604875583
+2025-05-19 16:51:42,942 - aiogram.event - ERROR - Cause exception while process update id=675292871 by bot id=7604875583
+InvalidRequestError: One or more mappers failed to initialize - can't proceed with initialization of other mappers. Triggering mapper: 'Mapper[Product(products)]'. Original exception was: Mapper 'Mapper[SubCategory(sub_categories)]' has no property 'products'.  If this property was indicated from other mappers or configure events, ensure registry.configure() has been called.
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "c:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\handlers\todo.py", line 185, in show_todo_menu
+    await get_or_create_user(message.from_user.id, message.from_user.username)
+  File "c:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\handlers\todo.py", line 23, in get_or_create_user
+    user = await session.scalar(
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\ext\asyncio\session.py", line 519, in scalar
+    return await greenlet_spawn(
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\util\_concurrency_py3k.py", line 190, in greenlet_spawn
+    result = context.switch(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\orm\session.py", line 2413, in scalar
+    return self._execute_internal(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\orm\session.py", line 2251, in _execute_internal
+    result: Result[Any] = compile_state_cls.orm_execute_statement(
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\orm\context.py", line 306, in orm_execute_statement
+    result = conn.execute(
+             ^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\engine\base.py", line 1416, in execute
+    return meth(
+           ^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\sql\elements.py", line 523, in _execute_on_connection
+    return connection._execute_clauseelement(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\engine\base.py", line 1630, in _execute_clauseelement
+    compiled_sql, extracted_params, cache_hit = elem._compile_w_cache(
+                                                ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\sql\elements.py", line 711, in _compile_w_cache
+    compiled_sql = self._compiler(
+                   ^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\sql\elements.py", line 320, in _compiler
+    return dialect.statement_compiler(dialect, self, **kw)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\sql\compiler.py", line 1446, in __init__
+    Compiled.__init__(self, dialect, statement, **kwargs)
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\sql\compiler.py", line 886, in __init__
+    self.string = self.process(self.statement, **compile_kwargs)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\sql\compiler.py", line 932, in process
+    return obj._compiler_dispatch(self, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\sql\visitors.py", line 141, in _compiler_dispatch
+    return meth(self, **kw)  # type: ignore  # noqa: E501
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\sql\compiler.py", line 4728, in visit_select
+    compile_state = select_stmt._compile_state_factory(
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\sql\base.py", line 686, in create_for_statement
+    return klass.create_for_statement(statement, compiler, **kw)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\orm\context.py", line 447, in create_for_statement
+    return cls._create_orm_context(
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\orm\context.py", line 1175, in _create_orm_context
+    _QueryEntity.to_compile_state(
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\orm\context.py", line 2630, in to_compile_state
+    _MapperEntity(
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\orm\context.py", line 2710, in __init__
+    entity._post_inspect
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\util\langhelpers.py", line 1257, in __get__
+    obj.__dict__[self.__name__] = result = self.fget(obj)
+                                           ^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\orm\mapper.py", line 2724, in _post_inspect
+    self._check_configure()
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\orm\mapper.py", line 2401, in _check_configure
+    _configure_registries({self.registry}, cascade=True)
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\orm\mapper.py", line 4214, in _configure_registries
+    _do_configure_registries(registries, cascade)
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\orm\mapper.py", line 4251, in _do_configure_registries
+    raise e
+sqlalchemy.exc.InvalidRequestError: One or more mappers failed to initialize - can't proceed with initialization of other mappers. Triggering mapper: 'Mapper[Product(products)]'. Original exception was: Mapper 'Mapper[SubCategory(sub_categories)]' has no property 'products'.  If this property was indicated from other mappers or configure events, ensure registry.configure() has been called.
+2025-05-19 16:58:57,107 - root - INFO - Бот запущен
+2025-05-19 16:58:57,108 - aiogram.dispatcher - INFO - Start polling
+2025-05-19 16:58:57,598 - aiogram.dispatcher - INFO - Run polling for bot @Sportzhangbot id=7604875583 - 'Sport planner | ZhangGroup'
+2025-05-19 16:59:04,255 - aiogram.event - INFO - Update id=675292872 is handled. Duration 500 ms by bot id=7604875583
+2025-05-19 16:59:06,158 - aiogram.event - INFO - Update id=675292873 is handled. Duration 313 ms by bot id=7604875583
+2025-05-19 16:59:08,736 - aiogram.event - INFO - Update id=675292874 is handled. Duration 328 ms by bot id=7604875583
+2025-05-19 16:59:09,516 - aiogram.event - INFO - Update id=675292875 is handled. Duration 328 ms by bot id=7604875583
+2025-05-19 16:59:10,451 - aiogram.event - INFO - Update id=675292876 is handled. Duration 468 ms by bot id=7604875583
+2025-05-19 16:59:11,539 - aiogram.event - INFO - Update id=675292878 is not handled. Duration 14 ms by bot id=7604875583
+2025-05-19 16:59:11,574 - aiogram.event - INFO - Update id=675292877 is handled. Duration 438 ms by bot id=7604875583
+2025-05-19 16:59:12,762 - aiogram.event - INFO - Update id=675292879 is handled. Duration 515 ms by bot id=7604875583
+2025-05-19 16:59:13,523 - aiogram.event - INFO - Update id=675292880 is handled. Duration 360 ms by bot id=7604875583
+2025-05-19 16:59:14,204 - aiogram.event - INFO - Update id=675292881 is handled. Duration 328 ms by bot id=7604875583
+2025-05-19 16:59:18,344 - aiogram.event - INFO - Update id=675292882 is handled. Duration 514 ms by bot id=7604875583
+2025-05-19 16:59:24,357 - aiogram.event - INFO - Update id=675292883 is handled. Duration 313 ms by bot id=7604875583
+2025-05-19 16:59:25,252 - aiogram.event - INFO - Update id=675292884 is handled. Duration 312 ms by bot id=7604875583
+2025-05-19 16:59:27,914 - aiogram.event - INFO - Update id=675292885 is handled. Duration 406 ms by bot id=7604875583
+2025-05-19 16:59:29,152 - aiogram.event - INFO - Update id=675292886 is handled. Duration 313 ms by bot id=7604875583
+2025-05-19 16:59:30,042 - aiogram.event - INFO - Update id=675292887 is handled. Duration 311 ms by bot id=7604875583
+2025-05-19 16:59:46,449 - aiogram.event - INFO - Update id=675292888 is handled. Duration 15453 ms by bot id=7604875583
+2025-05-19 16:59:49,067 - aiogram.event - INFO - Update id=675292889 is not handled. Duration 31 ms by bot id=7604875583
+2025-05-19 16:59:49,067 - aiogram.event - ERROR - Cause exception while process update id=675292889 by bot id=7604875583
+TypeError: 'tg_user_id' is an invalid keyword argument for UserTodo
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "c:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\handlers\todo.py", line 185, in show_todo_menu
+    await get_or_create_user(message.from_user.id, message.from_user.username)
+  File "c:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\handlers\todo.py", line 27, in get_or_create_user
+    user = UserTodo(tg_user_id=user_id, username=username)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<string>", line 4, in __init__
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\orm\state.py", line 571, in _initialize_instance
+    with util.safe_reraise():
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\util\langhelpers.py", line 146, in __exit__
+    raise exc_value.with_traceback(exc_tb)
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\orm\state.py", line 569, in _initialize_instance
+    manager.original_init(*mixed[1:], **kwargs)
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\orm\decl_base.py", line 2175, in _declarative_constructor
+    raise TypeError(
+TypeError: 'tg_user_id' is an invalid keyword argument for UserTodo
+2025-05-19 17:05:40,638 - root - INFO - Бот запущен
+2025-05-19 17:05:40,638 - aiogram.dispatcher - INFO - Start polling
+2025-05-19 17:05:41,092 - aiogram.dispatcher - INFO - Run polling for bot @Sportzhangbot id=7604875583 - 'Sport planner | ZhangGroup'
+2025-05-19 17:05:58,098 - aiogram.event - INFO - Update id=675292890 is handled. Duration 516 ms by bot id=7604875583
+2025-05-19 17:05:59,888 - aiogram.event - INFO - Update id=675292891 is handled. Duration 311 ms by bot id=7604875583
+2025-05-19 17:06:00,768 - aiogram.event - INFO - Update id=675292892 is handled. Duration 343 ms by bot id=7604875583
+2025-05-19 17:06:02,757 - aiogram.event - INFO - Update id=675292893 is handled. Duration 375 ms by bot id=7604875583
+2025-05-19 17:06:03,710 - aiogram.event - INFO - Update id=675292894 is handled. Duration 500 ms by bot id=7604875583
+2025-05-19 17:06:04,546 - aiogram.event - INFO - Update id=675292895 is handled. Duration 389 ms by bot id=7604875583
+2025-05-19 17:06:06,631 - aiogram.event - INFO - Update id=675292896 is handled. Duration 468 ms by bot id=7604875583
+2025-05-19 17:06:07,780 - aiogram.event - INFO - Update id=675292897 is handled. Duration 563 ms by bot id=7604875583
+2025-05-19 17:06:08,705 - aiogram.event - INFO - Update id=675292898 is handled. Duration 453 ms by bot id=7604875583
+2025-05-19 17:06:09,570 - aiogram.event - INFO - Update id=675292899 is handled. Duration 453 ms by bot id=7604875583
+2025-05-19 17:06:10,525 - aiogram.event - INFO - Update id=675292900 is handled. Duration 500 ms by bot id=7604875583
+2025-05-19 17:06:14,628 - aiogram.event - INFO - Update id=675292901 is handled. Duration 421 ms by bot id=7604875583
+2025-05-19 17:06:17,489 - aiogram.event - INFO - Update id=675292902 is handled. Duration 328 ms by bot id=7604875583
+2025-05-19 17:06:18,495 - aiogram.event - INFO - Update id=675292903 is handled. Duration 328 ms by bot id=7604875583
+2025-05-19 17:06:19,556 - aiogram.event - INFO - Update id=675292904 is handled. Duration 327 ms by bot id=7604875583
+2025-05-19 17:06:36,233 - aiogram.event - INFO - Update id=675292905 is handled. Duration 15891 ms by bot id=7604875583
+2025-05-19 17:06:37,724 - aiogram.event - INFO - Update id=675292906 is not handled. Duration 31 ms by bot id=7604875583
+2025-05-19 17:06:37,726 - aiogram.event - ERROR - Cause exception while process update id=675292906 by bot id=7604875583
+TypeError: 'username' is an invalid keyword argument for UserTodo
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "c:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\handlers\todo.py", line 185, in show_todo_menu
+    await get_or_create_user(message.from_user.id, message.from_user.username)
+  File "c:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\handlers\todo.py", line 27, in get_or_create_user
+    user = UserTodo(user_id=user_id, username=username)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<string>", line 4, in __init__
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\orm\state.py", line 571, in _initialize_instance
+    with util.safe_reraise():
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\util\langhelpers.py", line 146, in __exit__
+    raise exc_value.with_traceback(exc_tb)
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\orm\state.py", line 569, in _initialize_instance
+    manager.original_init(*mixed[1:], **kwargs)
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\orm\decl_base.py", line 2175, in _declarative_constructor
+    raise TypeError(
+TypeError: 'username' is an invalid keyword argument for UserTodo
+2025-05-19 17:12:51,929 - root - INFO - Бот запущен
+2025-05-19 17:12:51,930 - aiogram.dispatcher - INFO - Start polling
+2025-05-19 17:12:52,381 - aiogram.dispatcher - INFO - Run polling for bot @Sportzhangbot id=7604875583 - 'Sport planner | ZhangGroup'
+2025-05-19 17:12:58,787 - aiogram.event - INFO - Update id=675292907 is handled. Duration 484 ms by bot id=7604875583
+2025-05-19 17:13:00,582 - aiogram.event - INFO - Update id=675292908 is handled. Duration 313 ms by bot id=7604875583
+2025-05-19 17:13:01,657 - aiogram.event - INFO - Update id=675292909 is handled. Duration 328 ms by bot id=7604875583
+2025-05-19 17:13:02,401 - aiogram.event - INFO - Update id=675292910 is handled. Duration 328 ms by bot id=7604875583
+2025-05-19 17:13:03,299 - aiogram.event - INFO - Update id=675292911 is handled. Duration 311 ms by bot id=7604875583
+2025-05-19 17:13:04,017 - aiogram.event - INFO - Update id=675292912 is handled. Duration 296 ms by bot id=7604875583
+2025-05-19 17:13:07,840 - aiogram.event - INFO - Update id=675292913 is handled. Duration 328 ms by bot id=7604875583
+2025-05-19 17:13:09,646 - aiogram.event - INFO - Update id=675292914 is handled. Duration 375 ms by bot id=7604875583
+2025-05-19 17:13:10,454 - aiogram.event - INFO - Update id=675292915 is handled. Duration 343 ms by bot id=7604875583
+2025-05-19 17:13:11,285 - aiogram.event - INFO - Update id=675292916 is handled. Duration 296 ms by bot id=7604875583
+2025-05-19 17:13:12,054 - aiogram.event - INFO - Update id=675292917 is handled. Duration 343 ms by bot id=7604875583
+2025-05-19 17:13:13,043 - aiogram.event - INFO - Update id=675292918 is handled. Duration 328 ms by bot id=7604875583
+2025-05-19 17:13:13,967 - aiogram.event - INFO - Update id=675292919 is handled. Duration 421 ms by bot id=7604875583
+2025-05-19 17:13:14,846 - aiogram.event - INFO - Update id=675292920 is handled. Duration 561 ms by bot id=7604875583
+2025-05-19 17:13:15,722 - aiogram.event - INFO - Update id=675292921 is handled. Duration 483 ms by bot id=7604875583
+2025-05-19 17:13:32,432 - aiogram.event - INFO - Update id=675292922 is handled. Duration 16108 ms by bot id=7604875583
+2025-05-19 17:13:34,266 - aiogram.event - INFO - Update id=675292923 is handled. Duration 265 ms by bot id=7604875583
+2025-05-19 17:13:40,439 - aiogram.event - INFO - Update id=675292924 is handled. Duration 140 ms by bot id=7604875583
+2025-05-19 17:13:44,183 - aiogram.event - INFO - Update id=675292925 is handled. Duration 155 ms by bot id=7604875583
+2025-05-19 17:14:25,982 - aiogram.event - INFO - Update id=675292926 is handled. Duration 156 ms by bot id=7604875583
+2025-05-19 17:15:41,654 - root - INFO - Бот запущен
+2025-05-19 17:15:41,655 - aiogram.dispatcher - INFO - Start polling
+2025-05-19 17:15:42,112 - aiogram.dispatcher - INFO - Run polling for bot @Sportzhangbot id=7604875583 - 'Sport planner | ZhangGroup'
+2025-05-19 17:15:44,193 - aiogram.event - INFO - Update id=675292927 is not handled. Duration 63 ms by bot id=7604875583
+2025-05-19 17:15:44,193 - aiogram.event - ERROR - Cause exception while process update id=675292927 by bot id=7604875583
+IntegrityError: (sqlalchemy.dialects.postgresql.asyncpg.IntegrityError) <class 'asyncpg.exceptions.ForeignKeyViolationError'>: INSERT или UPDATE в таблице "users_todo" нарушает ограничение внешнего ключа "users_todo_user_id_fkey"
+DETAIL:  Ключ (user_id)=(1212329814) отсутствует в таблице "users".
+[SQL: INSERT INTO users_todo (user_id, username, date_joined) VALUES ($1::BIGINT, $2::VARCHAR, $3::TIMESTAMP WITH TIME ZONE) RETURNING users_todo.id]
+[parameters: (1212329814, 'ZHANGELIM', datetime.datetime(2025, 5, 19, 17, 15, 44, 159954))]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\dialects\postgresql\asyncpg.py", line 545, in _prepare_and_execute
+    self._rows = deque(await prepared_stmt.fetch(*parameters))
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\asyncpg\prepared_stmt.py", line 176, in fetch
+    data = await self.__bind_execute(args, 0, timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\asyncpg\prepared_stmt.py", line 267, in __bind_execute
+    data, status, _ = await self.__do_execute(
+                      ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\asyncpg\prepared_stmt.py", line 256, in __do_execute
+    return await executor(protocol)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "asyncpg\\protocol\\protocol.pyx", line 206, in bind_execute
+asyncpg.exceptions.ForeignKeyViolationError: INSERT или UPDATE в таблице "users_todo" нарушает ограничение внешнего ключа "users_todo_user_id_fkey"
+DETAIL:  Ключ (user_id)=(1212329814) отсутствует в таблице "users".
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\engine\base.py", line 1964, in _exec_single_context
+    self.dialect.do_execute(
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\engine\default.py", line 945, in do_execute
+    cursor.execute(statement, parameters)
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\dialects\postgresql\asyncpg.py", line 580, in execute
+    self._adapt_connection.await_(
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\util\_concurrency_py3k.py", line 132, in await_only
+    return current.parent.switch(awaitable)  # type: ignore[no-any-return,attr-defined] # noqa: E501
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\util\_concurrency_py3k.py", line 196, in greenlet_spawn
+    value = await result
+            ^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\dialects\postgresql\asyncpg.py", line 558, in _prepare_and_execute
+    self._handle_exception(error)
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\dialects\postgresql\asyncpg.py", line 508, in _handle_exception
+    self._adapt_connection._handle_exception(error)
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\dialects\postgresql\asyncpg.py", line 792, in _handle_exception
+    raise translated_error from error
+sqlalchemy.dialects.postgresql.asyncpg.AsyncAdapt_asyncpg_dbapi.IntegrityError: <class 'asyncpg.exceptions.ForeignKeyViolationError'>: INSERT или UPDATE в таблице "users_todo" нарушает ограничение внешнего ключа "users_todo_user_id_fkey"
+DETAIL:  Ключ (user_id)=(1212329814) отсутствует в таблице "users".
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "c:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\handlers\todo.py", line 185, in show_todo_menu
+    await get_or_create_user(callback.from_user.id, callback.from_user.username)
+  File "c:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\handlers\todo.py", line 29, in get_or_create_user
+    await session.commit()
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\ext\asyncio\session.py", line 1015, in commit
+    await greenlet_spawn(self.sync_session.commit)
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\util\_concurrency_py3k.py", line 203, in greenlet_spawn
+    result = context.switch(value)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\orm\session.py", line 2032, in commit
+    trans.commit(_to_root=True)
+  File "<string>", line 2, in commit
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\orm\state_changes.py", line 139, in _go
+    ret_value = fn(self, *arg, **kw)
+                ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\orm\session.py", line 1313, in commit
+    self._prepare_impl()
+  File "<string>", line 2, in _prepare_impl
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\orm\state_changes.py", line 139, in _go
+    ret_value = fn(self, *arg, **kw)
+                ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\orm\session.py", line 1288, in _prepare_impl
+    self.session.flush()
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\orm\session.py", line 4353, in flush
+    self._flush(objects)
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\orm\session.py", line 4488, in _flush
+    with util.safe_reraise():
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\util\langhelpers.py", line 146, in __exit__
+    raise exc_value.with_traceback(exc_tb)
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\orm\session.py", line 4449, in _flush
+    flush_context.execute()
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\orm\unitofwork.py", line 466, in execute
+    rec.execute(self)
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\orm\unitofwork.py", line 642, in execute
+    util.preloaded.orm_persistence.save_obj(
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\orm\persistence.py", line 93, in save_obj
+    _emit_insert_statements(
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\orm\persistence.py", line 1233, in _emit_insert_statements
+    result = connection.execute(
+             ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\engine\base.py", line 1416, in execute
+    return meth(
+           ^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\sql\elements.py", line 523, in _execute_on_connection
+    return connection._execute_clauseelement(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\engine\base.py", line 1638, in _execute_clauseelement
+    ret = self._execute_context(
+          ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\engine\base.py", line 1843, in _execute_context
+    return self._exec_single_context(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\engine\base.py", line 1983, in _exec_single_context
+    self._handle_dbapi_exception(
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\engine\base.py", line 2352, in _handle_dbapi_exception
+    raise sqlalchemy_exception.with_traceback(exc_info[2]) from e
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\engine\base.py", line 1964, in _exec_single_context
+    self.dialect.do_execute(
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\engine\default.py", line 945, in do_execute
+    cursor.execute(statement, parameters)
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\dialects\postgresql\asyncpg.py", line 580, in execute
+    self._adapt_connection.await_(
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\util\_concurrency_py3k.py", line 132, in await_only
+    return current.parent.switch(awaitable)  # type: ignore[no-any-return,attr-defined] # noqa: E501
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\util\_concurrency_py3k.py", line 196, in greenlet_spawn
+    value = await result
+            ^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\dialects\postgresql\asyncpg.py", line 558, in _prepare_and_execute
+    self._handle_exception(error)
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\dialects\postgresql\asyncpg.py", line 508, in _handle_exception
+    self._adapt_connection._handle_exception(error)
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\dialects\postgresql\asyncpg.py", line 792, in _handle_exception
+    raise translated_error from error
+sqlalchemy.exc.IntegrityError: (sqlalchemy.dialects.postgresql.asyncpg.IntegrityError) <class 'asyncpg.exceptions.ForeignKeyViolationError'>: INSERT или UPDATE в таблице "users_todo" нарушает ограничение внешнего ключа "users_todo_user_id_fkey"
+DETAIL:  Ключ (user_id)=(1212329814) отсутствует в таблице "users".
+[SQL: INSERT INTO users_todo (user_id, username, date_joined) VALUES ($1::BIGINT, $2::VARCHAR, $3::TIMESTAMP WITH TIME ZONE) RETURNING users_todo.id]
+[parameters: (1212329814, 'ZHANGELIM', datetime.datetime(2025, 5, 19, 17, 15, 44, 159954))]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-05-19 17:15:57,040 - root - INFO - Бот запущен
+2025-05-19 17:15:57,041 - aiogram.dispatcher - INFO - Start polling
+2025-05-19 17:15:57,530 - aiogram.dispatcher - INFO - Run polling for bot @Sportzhangbot id=7604875583 - 'Sport planner | ZhangGroup'
+2025-05-19 17:15:58,144 - aiogram.event - INFO - Update id=675292928 is handled. Duration 453 ms by bot id=7604875583
+2025-05-19 17:16:00,132 - aiogram.event - INFO - Update id=675292929 is handled. Duration 375 ms by bot id=7604875583
+2025-05-19 17:16:01,116 - aiogram.event - INFO - Update id=675292930 is handled. Duration 437 ms by bot id=7604875583
+2025-05-19 17:16:02,365 - aiogram.event - INFO - Update id=675292931 is handled. Duration 406 ms by bot id=7604875583
+2025-05-19 17:16:03,020 - aiogram.event - INFO - Update id=675292932 is handled. Duration 344 ms by bot id=7604875583
+2025-05-19 17:16:03,826 - aiogram.event - INFO - Update id=675292933 is handled. Duration 375 ms by bot id=7604875583
+2025-05-19 17:16:05,724 - aiogram.event - INFO - Update id=675292934 is handled. Duration 375 ms by bot id=7604875583
+2025-05-19 17:16:07,168 - aiogram.event - INFO - Update id=675292935 is handled. Duration 561 ms by bot id=7604875583
+2025-05-19 17:16:08,261 - aiogram.event - INFO - Update id=675292936 is handled. Duration 375 ms by bot id=7604875583
+2025-05-19 17:16:09,034 - aiogram.event - INFO - Update id=675292937 is handled. Duration 391 ms by bot id=7604875583
+2025-05-19 17:16:13,091 - aiogram.event - INFO - Update id=675292938 is handled. Duration 328 ms by bot id=7604875583
+2025-05-19 17:16:14,124 - aiogram.event - INFO - Update id=675292939 is handled. Duration 359 ms by bot id=7604875583
+2025-05-19 17:16:15,122 - aiogram.event - INFO - Update id=675292940 is handled. Duration 453 ms by bot id=7604875583
+2025-05-19 17:16:15,819 - aiogram.event - INFO - Update id=675292941 is handled. Duration 375 ms by bot id=7604875583
+2025-05-19 17:16:16,491 - aiogram.event - INFO - Update id=675292942 is handled. Duration 156 ms by bot id=7604875583
+2025-05-19 17:16:20,756 - aiogram.event - INFO - Update id=675292943 is handled. Duration 530 ms by bot id=7604875583
+2025-05-19 17:16:21,946 - aiogram.event - INFO - Update id=675292944 is handled. Duration 328 ms by bot id=7604875583
+2025-05-19 17:16:22,873 - aiogram.event - INFO - Update id=675292945 is handled. Duration 375 ms by bot id=7604875583
+2025-05-19 17:16:23,649 - aiogram.event - INFO - Update id=675292946 is handled. Duration 438 ms by bot id=7604875583
+2025-05-19 17:16:24,693 - aiogram.event - INFO - Update id=675292947 is handled. Duration 328 ms by bot id=7604875583
+2025-05-19 17:16:28,852 - aiogram.event - INFO - Update id=675292948 is handled. Duration 453 ms by bot id=7604875583
+2025-05-19 17:16:30,208 - aiogram.event - INFO - Update id=675292949 is handled. Duration 328 ms by bot id=7604875583
+2025-05-19 17:16:30,926 - aiogram.event - INFO - Update id=675292950 is handled. Duration 312 ms by bot id=7604875583
+2025-05-19 17:16:31,615 - aiogram.event - INFO - Update id=675292951 is handled. Duration 328 ms by bot id=7604875583
+2025-05-19 17:16:48,505 - aiogram.event - INFO - Update id=675292952 is handled. Duration 16078 ms by bot id=7604875583
+2025-05-19 17:16:53,492 - aiogram.event - INFO - Update id=675292953 is handled. Duration 281 ms by bot id=7604875583
+2025-05-19 17:16:55,837 - aiogram.event - INFO - Update id=675292954 is not handled. Duration 0 ms by bot id=7604875583
+2025-05-19 17:21:41,384 - root - INFO - Бот запущен
+2025-05-19 17:21:41,385 - aiogram.dispatcher - INFO - Start polling
+2025-05-19 17:21:41,856 - aiogram.dispatcher - INFO - Run polling for bot @Sportzhangbot id=7604875583 - 'Sport planner | ZhangGroup'
+2025-05-19 17:21:46,455 - aiogram.event - INFO - Update id=675292955 is handled. Duration 485 ms by bot id=7604875583
+2025-05-19 17:21:47,963 - aiogram.event - INFO - Update id=675292956 is handled. Duration 406 ms by bot id=7604875583
+2025-05-19 17:21:49,384 - aiogram.event - INFO - Update id=675292957 is handled. Duration 405 ms by bot id=7604875583
+2025-05-19 17:21:50,374 - aiogram.event - INFO - Update id=675292958 is handled. Duration 531 ms by bot id=7604875583
+2025-05-19 17:21:51,151 - aiogram.event - INFO - Update id=675292959 is handled. Duration 391 ms by bot id=7604875583
+2025-05-19 17:21:52,220 - aiogram.event - INFO - Update id=675292960 is handled. Duration 375 ms by bot id=7604875583
+2025-05-19 17:21:52,981 - aiogram.event - INFO - Update id=675292961 is handled. Duration 328 ms by bot id=7604875583
+2025-05-19 17:21:53,745 - aiogram.event - INFO - Update id=675292962 is handled. Duration 312 ms by bot id=7604875583
+2025-05-19 17:21:54,553 - aiogram.event - INFO - Update id=675292963 is handled. Duration 358 ms by bot id=7604875583
+2025-05-19 17:21:55,242 - aiogram.event - INFO - Update id=675292964 is handled. Duration 296 ms by bot id=7604875583
+2025-05-19 17:21:56,068 - aiogram.event - INFO - Update id=675292965 is handled. Duration 391 ms by bot id=7604875583
+2025-05-19 17:21:59,852 - aiogram.event - INFO - Update id=675292966 is handled. Duration 328 ms by bot id=7604875583
+2025-05-19 17:22:00,336 - aiogram.event - INFO - Update id=675292967 is not handled. Duration 14 ms by bot id=7604875583
+2025-05-19 17:22:01,238 - aiogram.event - INFO - Update id=675292968 is handled. Duration 313 ms by bot id=7604875583
+2025-05-19 17:22:02,586 - aiogram.event - INFO - Update id=675292969 is handled. Duration 311 ms by bot id=7604875583
+2025-05-19 17:22:03,461 - aiogram.event - INFO - Update id=675292970 is handled. Duration 358 ms by bot id=7604875583
+2025-05-19 17:22:22,846 - aiogram.event - INFO - Update id=675292971 is handled. Duration 15750 ms by bot id=7604875583
+2025-05-19 17:22:26,647 - aiogram.event - INFO - Update id=675292972 is handled. Duration 266 ms by bot id=7604875583
+2025-05-19 17:22:28,371 - aiogram.event - INFO - Update id=675292973 is handled. Duration 171 ms by bot id=7604875583
+2025-05-19 17:22:34,130 - aiogram.event - INFO - Update id=675292974 is handled. Duration 171 ms by bot id=7604875583
+2025-05-19 17:22:39,864 - aiogram.event - INFO - Update id=675292975 is not handled. Duration 14 ms by bot id=7604875583
+2025-05-19 17:22:39,864 - aiogram.event - ERROR - Cause exception while process update id=675292975 by bot id=7604875583
+IntegrityError: (sqlalchemy.dialects.postgresql.asyncpg.IntegrityError) <class 'asyncpg.exceptions.ForeignKeyViolationError'>: INSERT или UPDATE в таблице "tasks" нарушает ограничение внешнего ключа "tasks_owner_id_fkey"
+DETAIL:  Ключ (owner_id)=(1212329814) отсутствует в таблице "users_todo".
+[SQL: INSERT INTO tasks (title, description, status, owner_id, created_at) VALUES ($1::VARCHAR, $2::VARCHAR, $3::BOOLEAN, $4::INTEGER, $5::TIMESTAMP WITH TIME ZONE) RETURNING tasks.id]
+[parameters: ('пойти нахуй', 'сосать хуй', False, 1212329814, datetime.datetime(2025, 5, 19, 17, 22, 39, 860556))]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\dialects\postgresql\asyncpg.py", line 545, in _prepare_and_execute
+    self._rows = deque(await prepared_stmt.fetch(*parameters))
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\asyncpg\prepared_stmt.py", line 176, in fetch
+    data = await self.__bind_execute(args, 0, timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\asyncpg\prepared_stmt.py", line 267, in __bind_execute
+    data, status, _ = await self.__do_execute(
+                      ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\asyncpg\prepared_stmt.py", line 256, in __do_execute
+    return await executor(protocol)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "asyncpg\\protocol\\protocol.pyx", line 206, in bind_execute
+asyncpg.exceptions.ForeignKeyViolationError: INSERT или UPDATE в таблице "tasks" нарушает ограничение внешнего ключа "tasks_owner_id_fkey"
+DETAIL:  Ключ (owner_id)=(1212329814) отсутствует в таблице "users_todo".
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\engine\base.py", line 1964, in _exec_single_context
+    self.dialect.do_execute(
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\engine\default.py", line 945, in do_execute
+    cursor.execute(statement, parameters)
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\dialects\postgresql\asyncpg.py", line 580, in execute
+    self._adapt_connection.await_(
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\util\_concurrency_py3k.py", line 132, in await_only
+    return current.parent.switch(awaitable)  # type: ignore[no-any-return,attr-defined] # noqa: E501
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\util\_concurrency_py3k.py", line 196, in greenlet_spawn
+    value = await result
+            ^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\dialects\postgresql\asyncpg.py", line 558, in _prepare_and_execute
+    self._handle_exception(error)
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\dialects\postgresql\asyncpg.py", line 508, in _handle_exception
+    self._adapt_connection._handle_exception(error)
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\dialects\postgresql\asyncpg.py", line 792, in _handle_exception
+    raise translated_error from error
+sqlalchemy.dialects.postgresql.asyncpg.AsyncAdapt_asyncpg_dbapi.IntegrityError: <class 'asyncpg.exceptions.ForeignKeyViolationError'>: INSERT или UPDATE в таблице "tasks" нарушает ограничение внешнего ключа "tasks_owner_id_fkey"
+DETAIL:  Ключ (owner_id)=(1212329814) отсутствует в таблице "users_todo".
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "c:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\handlers\todo.py", line 124, in process_task_description
+    await create_task(
+  File "c:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\handlers\todo.py", line 52, in create_task
+    await session.commit()
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\ext\asyncio\session.py", line 1015, in commit
+    await greenlet_spawn(self.sync_session.commit)
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\util\_concurrency_py3k.py", line 203, in greenlet_spawn
+    result = context.switch(value)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\orm\session.py", line 2032, in commit
+    trans.commit(_to_root=True)
+  File "<string>", line 2, in commit
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\orm\state_changes.py", line 139, in _go
+    ret_value = fn(self, *arg, **kw)
+                ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\orm\session.py", line 1313, in commit
+    self._prepare_impl()
+  File "<string>", line 2, in _prepare_impl
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\orm\state_changes.py", line 139, in _go
+    ret_value = fn(self, *arg, **kw)
+                ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\orm\session.py", line 1288, in _prepare_impl
+    self.session.flush()
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\orm\session.py", line 4353, in flush
+    self._flush(objects)
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\orm\session.py", line 4488, in _flush
+    with util.safe_reraise():
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\util\langhelpers.py", line 146, in __exit__
+    raise exc_value.with_traceback(exc_tb)
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\orm\session.py", line 4449, in _flush
+    flush_context.execute()
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\orm\unitofwork.py", line 466, in execute
+    rec.execute(self)
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\orm\unitofwork.py", line 642, in execute
+    util.preloaded.orm_persistence.save_obj(
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\orm\persistence.py", line 93, in save_obj
+    _emit_insert_statements(
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\orm\persistence.py", line 1233, in _emit_insert_statements
+    result = connection.execute(
+             ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\engine\base.py", line 1416, in execute
+    return meth(
+           ^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\sql\elements.py", line 523, in _execute_on_connection
+    return connection._execute_clauseelement(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\engine\base.py", line 1638, in _execute_clauseelement
+    ret = self._execute_context(
+          ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\engine\base.py", line 1843, in _execute_context
+    return self._exec_single_context(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\engine\base.py", line 1983, in _exec_single_context
+    self._handle_dbapi_exception(
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\engine\base.py", line 2352, in _handle_dbapi_exception
+    raise sqlalchemy_exception.with_traceback(exc_info[2]) from e
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\engine\base.py", line 1964, in _exec_single_context
+    self.dialect.do_execute(
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\engine\default.py", line 945, in do_execute
+    cursor.execute(statement, parameters)
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\dialects\postgresql\asyncpg.py", line 580, in execute
+    self._adapt_connection.await_(
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\util\_concurrency_py3k.py", line 132, in await_only
+    return current.parent.switch(awaitable)  # type: ignore[no-any-return,attr-defined] # noqa: E501
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\util\_concurrency_py3k.py", line 196, in greenlet_spawn
+    value = await result
+            ^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\dialects\postgresql\asyncpg.py", line 558, in _prepare_and_execute
+    self._handle_exception(error)
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\dialects\postgresql\asyncpg.py", line 508, in _handle_exception
+    self._adapt_connection._handle_exception(error)
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\dialects\postgresql\asyncpg.py", line 792, in _handle_exception
+    raise translated_error from error
+sqlalchemy.exc.IntegrityError: (sqlalchemy.dialects.postgresql.asyncpg.IntegrityError) <class 'asyncpg.exceptions.ForeignKeyViolationError'>: INSERT или UPDATE в таблице "tasks" нарушает ограничение внешнего ключа "tasks_owner_id_fkey"
+DETAIL:  Ключ (owner_id)=(1212329814) отсутствует в таблице "users_todo".
+[SQL: INSERT INTO tasks (title, description, status, owner_id, created_at) VALUES ($1::VARCHAR, $2::VARCHAR, $3::BOOLEAN, $4::INTEGER, $5::TIMESTAMP WITH TIME ZONE) RETURNING tasks.id]
+[parameters: ('пойти нахуй', 'сосать хуй', False, 1212329814, datetime.datetime(2025, 5, 19, 17, 22, 39, 860556))]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-05-19 17:22:47,970 - aiogram.event - INFO - Update id=675292976 is handled. Duration 203 ms by bot id=7604875583
+2025-05-19 17:22:57,239 - aiogram.event - INFO - Update id=675292977 is handled. Duration 203 ms by bot id=7604875583
+2025-05-19 17:23:00,615 - aiogram.event - INFO - Update id=675292978 is handled. Duration 187 ms by bot id=7604875583
+2025-05-19 17:23:11,072 - aiogram.event - INFO - Update id=675292979 is handled. Duration 203 ms by bot id=7604875583
+2025-05-19 17:23:13,335 - aiogram.event - INFO - Update id=675292980 is handled. Duration 156 ms by bot id=7604875583
+2025-05-19 17:23:15,501 - aiogram.event - INFO - Update id=675292981 is handled. Duration 156 ms by bot id=7604875583
+2025-05-19 17:23:16,432 - aiogram.event - INFO - Update id=675292982 is not handled. Duration 0 ms by bot id=7604875583
+2025-05-19 17:23:16,432 - aiogram.event - ERROR - Cause exception while process update id=675292982 by bot id=7604875583
+IntegrityError: (sqlalchemy.dialects.postgresql.asyncpg.IntegrityError) <class 'asyncpg.exceptions.ForeignKeyViolationError'>: INSERT или UPDATE в таблице "tasks" нарушает ограничение внешнего ключа "tasks_owner_id_fkey"
+DETAIL:  Ключ (owner_id)=(1212329814) отсутствует в таблице "users_todo".
+[SQL: INSERT INTO tasks (title, description, status, owner_id, created_at) VALUES ($1::VARCHAR, $2::VARCHAR, $3::BOOLEAN, $4::INTEGER, $5::TIMESTAMP WITH TIME ZONE) RETURNING tasks.id]
+[parameters: ('йкк', 'йумйукйку', False, 1212329814, datetime.datetime(2025, 5, 19, 17, 23, 16, 430730))]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\dialects\postgresql\asyncpg.py", line 545, in _prepare_and_execute
+    self._rows = deque(await prepared_stmt.fetch(*parameters))
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\asyncpg\prepared_stmt.py", line 176, in fetch
+    data = await self.__bind_execute(args, 0, timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\asyncpg\prepared_stmt.py", line 267, in __bind_execute
+    data, status, _ = await self.__do_execute(
+                      ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\asyncpg\prepared_stmt.py", line 256, in __do_execute
+    return await executor(protocol)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "asyncpg\\protocol\\protocol.pyx", line 206, in bind_execute
+asyncpg.exceptions.ForeignKeyViolationError: INSERT или UPDATE в таблице "tasks" нарушает ограничение внешнего ключа "tasks_owner_id_fkey"
+DETAIL:  Ключ (owner_id)=(1212329814) отсутствует в таблице "users_todo".
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\engine\base.py", line 1964, in _exec_single_context
+    self.dialect.do_execute(
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\engine\default.py", line 945, in do_execute
+    cursor.execute(statement, parameters)
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\dialects\postgresql\asyncpg.py", line 580, in execute
+    self._adapt_connection.await_(
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\util\_concurrency_py3k.py", line 132, in await_only
+    return current.parent.switch(awaitable)  # type: ignore[no-any-return,attr-defined] # noqa: E501
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\util\_concurrency_py3k.py", line 196, in greenlet_spawn
+    value = await result
+            ^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\dialects\postgresql\asyncpg.py", line 558, in _prepare_and_execute
+    self._handle_exception(error)
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\dialects\postgresql\asyncpg.py", line 508, in _handle_exception
+    self._adapt_connection._handle_exception(error)
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\dialects\postgresql\asyncpg.py", line 792, in _handle_exception
+    raise translated_error from error
+sqlalchemy.dialects.postgresql.asyncpg.AsyncAdapt_asyncpg_dbapi.IntegrityError: <class 'asyncpg.exceptions.ForeignKeyViolationError'>: INSERT или UPDATE в таблице "tasks" нарушает ограничение внешнего ключа "tasks_owner_id_fkey"
+DETAIL:  Ключ (owner_id)=(1212329814) отсутствует в таблице "users_todo".
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "c:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\handlers\todo.py", line 124, in process_task_description
+    await create_task(
+  File "c:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\handlers\todo.py", line 52, in create_task
+    await session.commit()
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\ext\asyncio\session.py", line 1015, in commit
+    await greenlet_spawn(self.sync_session.commit)
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\util\_concurrency_py3k.py", line 203, in greenlet_spawn
+    result = context.switch(value)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\orm\session.py", line 2032, in commit
+    trans.commit(_to_root=True)
+  File "<string>", line 2, in commit
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\orm\state_changes.py", line 139, in _go
+    ret_value = fn(self, *arg, **kw)
+                ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\orm\session.py", line 1313, in commit
+    self._prepare_impl()
+  File "<string>", line 2, in _prepare_impl
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\orm\state_changes.py", line 139, in _go
+    ret_value = fn(self, *arg, **kw)
+                ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\orm\session.py", line 1288, in _prepare_impl
+    self.session.flush()
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\orm\session.py", line 4353, in flush
+    self._flush(objects)
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\orm\session.py", line 4488, in _flush
+    with util.safe_reraise():
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\util\langhelpers.py", line 146, in __exit__
+    raise exc_value.with_traceback(exc_tb)
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\orm\session.py", line 4449, in _flush
+    flush_context.execute()
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\orm\unitofwork.py", line 466, in execute
+    rec.execute(self)
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\orm\unitofwork.py", line 642, in execute
+    util.preloaded.orm_persistence.save_obj(
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\orm\persistence.py", line 93, in save_obj
+    _emit_insert_statements(
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\orm\persistence.py", line 1233, in _emit_insert_statements
+    result = connection.execute(
+             ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\engine\base.py", line 1416, in execute
+    return meth(
+           ^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\sql\elements.py", line 523, in _execute_on_connection
+    return connection._execute_clauseelement(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\engine\base.py", line 1638, in _execute_clauseelement
+    ret = self._execute_context(
+          ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\engine\base.py", line 1843, in _execute_context
+    return self._exec_single_context(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\engine\base.py", line 1983, in _exec_single_context
+    self._handle_dbapi_exception(
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\engine\base.py", line 2352, in _handle_dbapi_exception
+    raise sqlalchemy_exception.with_traceback(exc_info[2]) from e
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\engine\base.py", line 1964, in _exec_single_context
+    self.dialect.do_execute(
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\engine\default.py", line 945, in do_execute
+    cursor.execute(statement, parameters)
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\dialects\postgresql\asyncpg.py", line 580, in execute
+    self._adapt_connection.await_(
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\util\_concurrency_py3k.py", line 132, in await_only
+    return current.parent.switch(awaitable)  # type: ignore[no-any-return,attr-defined] # noqa: E501
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\util\_concurrency_py3k.py", line 196, in greenlet_spawn
+    value = await result
+            ^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\dialects\postgresql\asyncpg.py", line 558, in _prepare_and_execute
+    self._handle_exception(error)
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\dialects\postgresql\asyncpg.py", line 508, in _handle_exception
+    self._adapt_connection._handle_exception(error)
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\dialects\postgresql\asyncpg.py", line 792, in _handle_exception
+    raise translated_error from error
+sqlalchemy.exc.IntegrityError: (sqlalchemy.dialects.postgresql.asyncpg.IntegrityError) <class 'asyncpg.exceptions.ForeignKeyViolationError'>: INSERT или UPDATE в таблице "tasks" нарушает ограничение внешнего ключа "tasks_owner_id_fkey"
+DETAIL:  Ключ (owner_id)=(1212329814) отсутствует в таблице "users_todo".
+[SQL: INSERT INTO tasks (title, description, status, owner_id, created_at) VALUES ($1::VARCHAR, $2::VARCHAR, $3::BOOLEAN, $4::INTEGER, $5::TIMESTAMP WITH TIME ZONE) RETURNING tasks.id]
+[parameters: ('йкк', 'йумйукйку', False, 1212329814, datetime.datetime(2025, 5, 19, 17, 23, 16, 430730))]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-05-19 20:01:27,119 - root - INFO - Бот запущен
+2025-05-19 20:01:27,119 - aiogram.dispatcher - INFO - Start polling
+2025-05-19 20:01:27,553 - aiogram.dispatcher - INFO - Run polling for bot @Sportzhangbot id=7604875583 - 'Sport planner | ZhangGroup'
+2025-05-19 20:01:45,063 - aiogram.event - INFO - Update id=675292983 is handled. Duration 546 ms by bot id=7604875583
+2025-05-19 20:01:46,763 - aiogram.event - INFO - Update id=675292984 is handled. Duration 311 ms by bot id=7604875583
+2025-05-19 20:01:48,055 - aiogram.event - INFO - Update id=675292985 is handled. Duration 405 ms by bot id=7604875583
+2025-05-19 20:01:48,576 - aiogram.event - INFO - Update id=675292986 is handled. Duration 453 ms by bot id=7604875583
+2025-05-19 20:01:49,313 - aiogram.event - INFO - Update id=675292987 is handled. Duration 500 ms by bot id=7604875583
+2025-05-19 20:01:50,054 - aiogram.event - INFO - Update id=675292988 is handled. Duration 343 ms by bot id=7604875583
+2025-05-19 20:01:53,921 - aiogram.event - INFO - Update id=675292989 is handled. Duration 406 ms by bot id=7604875583
+2025-05-19 20:01:54,924 - aiogram.event - INFO - Update id=675292990 is handled. Duration 514 ms by bot id=7604875583
+2025-05-19 20:01:55,771 - aiogram.event - INFO - Update id=675292991 is handled. Duration 500 ms by bot id=7604875583
+2025-05-19 20:01:56,547 - aiogram.event - INFO - Update id=675292992 is handled. Duration 389 ms by bot id=7604875583
+2025-05-19 20:01:57,572 - aiogram.event - INFO - Update id=675292993 is handled. Duration 531 ms by bot id=7604875583
+2025-05-19 20:02:01,338 - aiogram.event - INFO - Update id=675292994 is handled. Duration 343 ms by bot id=7604875583
+2025-05-19 20:02:03,479 - aiogram.event - INFO - Update id=675292995 is handled. Duration 328 ms by bot id=7604875583
+2025-05-19 20:02:04,586 - aiogram.event - INFO - Update id=675292996 is handled. Duration 343 ms by bot id=7604875583
+2025-05-19 20:02:05,665 - aiogram.event - INFO - Update id=675292997 is handled. Duration 468 ms by bot id=7604875583
+2025-05-19 20:02:22,828 - aiogram.event - INFO - Update id=675292998 is handled. Duration 16671 ms by bot id=7604875583
+2025-05-19 20:02:27,148 - aiogram.event - INFO - Update id=675292999 is not handled. Duration 16 ms by bot id=7604875583
+2025-05-19 20:02:27,149 - aiogram.event - ERROR - Cause exception while process update id=675292999 by bot id=7604875583
+TypeError: 'username' is an invalid keyword argument for UserTodo
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "c:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\handlers\todo.py", line 186, in show_todo_menu
+    await get_or_create_user(callback.from_user.id, callback.from_user.username)
+  File "c:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\handlers\todo.py", line 27, in get_or_create_user
+    user = UserTodo(user_id=user_id, username=username)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<string>", line 4, in __init__
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\orm\state.py", line 571, in _initialize_instance
+    with util.safe_reraise():
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\util\langhelpers.py", line 146, in __exit__
+    raise exc_value.with_traceback(exc_tb)
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\orm\state.py", line 569, in _initialize_instance
+    manager.original_init(*mixed[1:], **kwargs)
+  File "C:\Users\Lenovo\Documents\GitHub\GitHub\sport\sport\.venv\Lib\site-packages\sqlalchemy\orm\decl_base.py", line 2175, in _declarative_constructor
+    raise TypeError(
+TypeError: 'username' is an invalid keyword argument for UserTodo
+2025-05-19 20:04:06,326 - aiogram.dispatcher - INFO - Polling stopped
+2025-05-19 20:04:06,575 - root - INFO - Бот остановлен
+2025-05-19 20:04:06,575 - aiogram.dispatcher - INFO - Polling stopped for bot @Sportzhangbot id=7604875583 - 'Sport planner | ZhangGroup'
+2025-05-19 20:04:12,829 - root - INFO - Бот запущен
+2025-05-19 20:04:12,829 - aiogram.dispatcher - INFO - Start polling
+2025-05-19 20:04:13,268 - aiogram.dispatcher - INFO - Run polling for bot @Sportzhangbot id=7604875583 - 'Sport planner | ZhangGroup'
+2025-05-19 20:04:20,691 - aiogram.event - INFO - Update id=675293000 is handled. Duration 483 ms by bot id=7604875583
+2025-05-19 20:04:22,309 - aiogram.event - INFO - Update id=675293001 is handled. Duration 327 ms by bot id=7604875583
+2025-05-19 20:04:23,448 - aiogram.event - INFO - Update id=675293002 is handled. Duration 360 ms by bot id=7604875583
+2025-05-19 20:04:24,111 - aiogram.event - INFO - Update id=675293003 is handled. Duration 688 ms by bot id=7604875583
+2025-05-19 20:04:24,148 - aiogram.event - INFO - Update id=675293004 is not handled. Duration 16 ms by bot id=7604875583
+2025-05-19 20:04:25,454 - aiogram.event - INFO - Update id=675293005 is handled. Duration 438 ms by bot id=7604875583
+2025-05-19 20:04:29,378 - aiogram.event - INFO - Update id=675293006 is handled. Duration 328 ms by bot id=7604875583
+2025-05-19 20:04:30,571 - aiogram.event - INFO - Update id=675293007 is handled. Duration 360 ms by bot id=7604875583
+2025-05-19 20:04:31,296 - aiogram.event - INFO - Update id=675293008 is handled. Duration 296 ms by bot id=7604875583
+2025-05-19 20:04:32,212 - aiogram.event - INFO - Update id=675293009 is handled. Duration 500 ms by bot id=7604875583
+2025-05-19 20:04:33,032 - aiogram.event - INFO - Update id=675293010 is handled. Duration 594 ms by bot id=7604875583
+2025-05-19 20:04:37,079 - aiogram.event - INFO - Update id=675293011 is handled. Duration 328 ms by bot id=7604875583
+2025-05-19 20:04:38,300 - aiogram.event - INFO - Update id=675293012 is handled. Duration 421 ms by bot id=7604875583
+2025-05-19 20:04:39,019 - aiogram.event - INFO - Update id=675293013 is handled. Duration 344 ms by bot id=7604875583
+2025-05-19 20:04:39,970 - aiogram.event - INFO - Update id=675293014 is handled. Duration 421 ms by bot id=7604875583
+2025-05-19 20:04:40,794 - aiogram.event - INFO - Update id=675293015 is handled. Duration 343 ms by bot id=7604875583
+2025-05-19 20:05:01,023 - aiogram.event - INFO - Update id=675293016 is handled. Duration 16563 ms by bot id=7604875583
+2025-05-19 20:05:22,920 - aiogram.event - INFO - Update id=675293017 is handled. Duration 359 ms by bot id=7604875583
+2025-05-19 20:05:24,864 - aiogram.event - INFO - Update id=675293018 is handled. Duration 296 ms by bot id=7604875583
+2025-05-19 20:05:29,272 - aiogram.event - INFO - Update id=675293019 is handled. Duration 453 ms by bot id=7604875583
+2025-05-19 20:05:31,109 - aiogram.event - INFO - Update id=675293020 is handled. Duration 172 ms by bot id=7604875583
+2025-05-19 20:05:35,252 - aiogram.event - INFO - Update id=675293021 is handled. Duration 234 ms by bot id=7604875583
+2025-05-19 20:05:38,709 - aiogram.event - INFO - Update id=675293022 is handled. Duration 186 ms by bot id=7604875583
+2025-05-19 20:05:41,266 - aiogram.event - INFO - Update id=675293023 is handled. Duration 390 ms by bot id=7604875583
+2025-05-19 20:05:41,843 - aiogram.event - INFO - Update id=675293024 is handled. Duration 171 ms by bot id=7604875583
+2025-05-19 20:05:44,244 - aiogram.event - INFO - Update id=675293025 is handled. Duration 250 ms by bot id=7604875583
+2025-05-19 20:05:46,253 - aiogram.event - INFO - Update id=675293026 is handled. Duration 531 ms by bot id=7604875583
+2025-05-19 20:05:47,713 - aiogram.event - INFO - Update id=675293027 is handled. Duration 186 ms by bot id=7604875583
+2025-05-19 20:05:51,078 - aiogram.event - INFO - Update id=675293028 is handled. Duration 281 ms by bot id=7604875583
+2025-05-19 20:05:56,831 - aiogram.event - INFO - Update id=675293029 is handled. Duration 313 ms by bot id=7604875583
+2025-05-19 20:06:01,701 - aiogram.event - INFO - Update id=675293030 is handled. Duration 218 ms by bot id=7604875583
+2025-05-19 20:11:16,921 - aiogram.event - INFO - Update id=675293031 is handled. Duration 203 ms by bot id=7604875583
+2025-05-19 20:11:22,985 - aiogram.event - INFO - Update id=675293032 is handled. Duration 438 ms by bot id=7604875583
+2025-05-19 20:11:27,651 - aiogram.event - INFO - Update id=675293033 is handled. Duration 171 ms by bot id=7604875583
+2025-05-19 20:11:33,008 - aiogram.event - INFO - Update id=675293034 is handled. Duration 155 ms by bot id=7604875583
+2025-05-19 20:11:35,292 - aiogram.event - INFO - Update id=675293035 is handled. Duration 343 ms by bot id=7604875583
+2025-05-19 20:11:36,363 - aiogram.event - INFO - Update id=675293036 is handled. Duration 172 ms by bot id=7604875583
+2025-05-19 23:20:17,536 - root - INFO - Бот запущен
+2025-05-19 23:20:17,536 - aiogram.dispatcher - INFO - Start polling
+2025-05-19 23:20:18,017 - aiogram.dispatcher - INFO - Run polling for bot @Sportzhangbot id=7604875583 - 'Sport planner | ZhangGroup'
+2025-05-19 23:23:30,454 - aiogram.event - INFO - Update id=675293037 is handled. Duration 593 ms by bot id=7604875583
+2025-05-19 23:23:31,808 - aiogram.event - INFO - Update id=675293038 is handled. Duration 516 ms by bot id=7604875583
+2025-05-19 23:23:44,268 - aiogram.event - INFO - Update id=675293039 is handled. Duration 156 ms by bot id=7604875583
+2025-05-19 23:24:00,269 - aiogram.event - INFO - Update id=675293040 is handled. Duration 172 ms by bot id=7604875583
+2025-05-19 23:24:23,740 - aiogram.event - INFO - Update id=675293041 is handled. Duration 233 ms by bot id=7604875583
+2025-05-19 23:24:31,104 - aiogram.event - INFO - Update id=675293042 is handled. Duration 188 ms by bot id=7604875583
+2025-05-19 23:24:36,342 - aiogram.event - INFO - Update id=675293043 is handled. Duration 233 ms by bot id=7604875583
+2025-05-19 23:24:40,918 - aiogram.event - INFO - Update id=675293044 is handled. Duration 186 ms by bot id=7604875583
+2025-05-19 23:26:02,049 - aiogram.dispatcher - INFO - Polling stopped
+2025-05-19 23:26:02,310 - root - INFO - Бот остановлен
+2025-05-19 23:26:02,390 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectionError: Connector is closed.
+2025-05-19 23:26:02,390 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7604875583)
+2025-05-19 23:26:02,589 - aiogram.dispatcher - INFO - Polling stopped for bot @Sportzhangbot id=7604875583 - 'Sport planner | ZhangGroup'
+2025-05-19 23:28:31,297 - root - INFO - Бот запущен
+2025-05-19 23:28:31,299 - aiogram.dispatcher - INFO - Start polling
+2025-05-19 23:28:31,845 - aiogram.dispatcher - INFO - Run polling for bot @Sportzhangbot id=7604875583 - 'Sport planner | ZhangGroup'
+2025-05-19 23:35:07,381 - root - INFO - Бот запущен
+2025-05-19 23:35:07,382 - aiogram.dispatcher - INFO - Start polling
+2025-05-19 23:35:07,820 - aiogram.dispatcher - INFO - Run polling for bot @Sportzhangbot id=7604875583 - 'Sport planner | ZhangGroup'
+2025-05-19 23:35:08,501 - aiogram.event - INFO - Update id=675293045 is handled. Duration 514 ms by bot id=7604875583
+2025-05-19 23:35:12,588 - aiogram.event - INFO - Update id=675293046 is handled. Duration 406 ms by bot id=7604875583
+2025-05-19 23:35:14,712 - aiogram.event - INFO - Update id=675293047 is handled. Duration 577 ms by bot id=7604875583
+2025-05-19 23:35:15,530 - aiogram.event - INFO - Update id=675293048 is handled. Duration 375 ms by bot id=7604875583
+2025-05-19 23:35:24,338 - aiogram.event - INFO - Update id=675293049 is handled. Duration 172 ms by bot id=7604875583
+2025-05-19 23:35:31,463 - aiogram.event - INFO - Update id=675293050 is handled. Duration 172 ms by bot id=7604875583
+2025-05-19 23:35:41,301 - aiogram.event - INFO - Update id=675293051 is handled. Duration 312 ms by bot id=7604875583
+2025-05-19 23:35:56,015 - aiogram.event - INFO - Update id=675293052 is handled. Duration 281 ms by bot id=7604875583
+2025-05-19 23:36:26,061 - aiogram.event - INFO - Update id=675293053 is handled. Duration 312 ms by bot id=7604875583
+2025-05-19 23:41:26,806 - aiogram.event - INFO - Update id=675293054 is handled. Duration 233 ms by bot id=7604875583
+2025-05-19 23:41:30,454 - aiogram.event - INFO - Update id=675293055 is handled. Duration 235 ms by bot id=7604875583
+2025-05-19 23:53:23,377 - root - INFO - Бот запущен
+2025-05-19 23:53:23,384 - aiogram.dispatcher - INFO - Start polling
+2025-05-19 23:53:23,847 - aiogram.dispatcher - INFO - Run polling for bot @Sportzhangbot id=7604875583 - 'Sport planner | ZhangGroup'
+2025-05-19 23:53:24,482 - aiogram.event - INFO - Update id=675293056 is handled. Duration 485 ms by bot id=7604875583
+2025-05-19 23:53:32,958 - aiogram.event - INFO - Update id=675293057 is handled. Duration 312 ms by bot id=7604875583
+2025-05-19 23:53:34,706 - aiogram.event - INFO - Update id=675293058 is handled. Duration 312 ms by bot id=7604875583
+2025-05-19 23:53:35,532 - aiogram.event - INFO - Update id=675293059 is handled. Duration 140 ms by bot id=7604875583
+2025-05-19 23:53:36,238 - aiogram.event - INFO - Update id=675293060 is handled. Duration 296 ms by bot id=7604875583
+2025-05-19 23:53:38,044 - aiogram.event - INFO - Update id=675293061 is handled. Duration 311 ms by bot id=7604875583
+2025-05-19 23:53:38,846 - aiogram.event - INFO - Update id=675293062 is handled. Duration 281 ms by bot id=7604875583
+2025-05-19 23:53:57,809 - aiogram.event - INFO - Update id=675293063 is handled. Duration 358 ms by bot id=7604875583
+2025-05-19 23:54:02,290 - aiogram.event - INFO - Update id=675293064 is handled. Duration 186 ms by bot id=7604875583
+2025-05-19 23:54:17,247 - aiogram.event - INFO - Update id=675293065 is handled. Duration 281 ms by bot id=7604875583
+2025-05-19 23:57:33,222 - root - INFO - Бот запущен
+2025-05-19 23:57:33,222 - aiogram.dispatcher - INFO - Start polling
+2025-05-19 23:57:33,693 - aiogram.dispatcher - INFO - Run polling for bot @Sportzhangbot id=7604875583 - 'Sport planner | ZhangGroup'
+2025-05-19 23:58:04,777 - aiogram.event - INFO - Update id=675293066 is handled. Duration 500 ms by bot id=7604875583
+2025-05-19 23:58:16,274 - aiogram.event - INFO - Update id=675293067 is handled. Duration 187 ms by bot id=7604875583
+2025-05-19 23:58:20,022 - aiogram.event - INFO - Update id=675293068 is handled. Duration 327 ms by bot id=7604875583
+2025-05-19 23:58:28,496 - aiogram.event - INFO - Update id=675293069 is handled. Duration 312 ms by bot id=7604875583
+2025-05-20 12:02:30,413 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2025-05-20 12:02:30,431 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7604875583)
+2025-05-20 12:02:31,455 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2025-05-20 12:02:31,459 - aiogram.dispatcher - WARNING - Sleep for 1.384077 seconds and try again... (tryings = 1, bot id = 7604875583)
+2025-05-20 12:02:32,852 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2025-05-20 12:02:32,852 - aiogram.dispatcher - WARNING - Sleep for 1.795664 seconds and try again... (tryings = 2, bot id = 7604875583)
+2025-05-20 12:02:34,663 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2025-05-20 12:02:34,663 - aiogram.dispatcher - WARNING - Sleep for 2.380349 seconds and try again... (tryings = 3, bot id = 7604875583)
+2025-05-20 12:02:37,046 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2025-05-20 12:02:37,046 - aiogram.dispatcher - WARNING - Sleep for 3.244369 seconds and try again... (tryings = 4, bot id = 7604875583)
+2025-05-20 12:02:40,298 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2025-05-20 12:02:40,298 - aiogram.dispatcher - WARNING - Sleep for 4.327303 seconds and try again... (tryings = 5, bot id = 7604875583)
+2025-05-20 12:02:44,639 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2025-05-20 12:02:44,640 - aiogram.dispatcher - WARNING - Sleep for 5.061511 seconds and try again... (tryings = 6, bot id = 7604875583)
+2025-05-20 12:02:49,714 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2025-05-20 12:02:49,714 - aiogram.dispatcher - WARNING - Sleep for 5.140488 seconds and try again... (tryings = 7, bot id = 7604875583)
+2025-05-20 12:02:54,859 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2025-05-20 12:02:54,859 - aiogram.dispatcher - WARNING - Sleep for 4.917079 seconds and try again... (tryings = 8, bot id = 7604875583)
+2025-05-20 12:02:59,789 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2025-05-20 12:02:59,789 - aiogram.dispatcher - WARNING - Sleep for 4.943607 seconds and try again... (tryings = 9, bot id = 7604875583)
+2025-05-20 12:03:04,749 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2025-05-20 12:03:04,749 - aiogram.dispatcher - WARNING - Sleep for 5.063647 seconds and try again... (tryings = 10, bot id = 7604875583)
+2025-05-20 12:03:09,819 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2025-05-20 12:03:09,820 - aiogram.dispatcher - WARNING - Sleep for 4.927964 seconds and try again... (tryings = 11, bot id = 7604875583)
+2025-05-20 12:03:14,749 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2025-05-20 12:03:14,751 - aiogram.dispatcher - WARNING - Sleep for 4.873552 seconds and try again... (tryings = 12, bot id = 7604875583)
+2025-05-20 12:03:19,641 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2025-05-20 12:03:19,641 - aiogram.dispatcher - WARNING - Sleep for 5.084327 seconds and try again... (tryings = 13, bot id = 7604875583)
+2025-05-20 12:03:24,738 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2025-05-20 12:03:24,739 - aiogram.dispatcher - WARNING - Sleep for 5.017676 seconds and try again... (tryings = 14, bot id = 7604875583)
+2025-05-20 12:03:29,763 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2025-05-20 12:03:29,763 - aiogram.dispatcher - WARNING - Sleep for 5.043208 seconds and try again... (tryings = 15, bot id = 7604875583)
+2025-05-20 12:03:34,811 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2025-05-20 12:03:34,811 - aiogram.dispatcher - WARNING - Sleep for 5.104721 seconds and try again... (tryings = 16, bot id = 7604875583)
+2025-05-20 12:03:39,918 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2025-05-20 12:03:39,920 - aiogram.dispatcher - WARNING - Sleep for 4.895817 seconds and try again... (tryings = 17, bot id = 7604875583)

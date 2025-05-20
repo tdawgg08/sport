@@ -46,7 +46,7 @@ def save_to_json(data, filename):
 
 if __name__ == '__main__':
     # Путь к вашему локальному файлу
-    input_file = 'C:/Users/Илья Марченко/Documents/GitHub/sport/HTML/cccchecker.html'
+    input_file = 'HTML\cccchecker.html'
     output_file = 'parsed_products.json'
     
     if not os.path.exists(input_file):
