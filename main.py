@@ -8,10 +8,13 @@ from handlers.start import router as start_router
 from handlers.menu import router as menu_router
 from handlers.calculator.output_calories import router as output_calculator_router
 from handlers.calculator.paste_calories import router as paste_calculator_router
-from handlers.calculator.set_product import router as set_product
+from handlers.calculator.set_product import router as set_product_router
 from handlers.quiz import router as quiz_router
 from handlers.todo import router as todo_router
 from handlers.gpt import router as gpt_router
+from handlers.analize_vs_questions import router as analize_router
+from handlers.gpt_for_analize_lead import router as gpt_for_analize_router
+from misc.scheduler import schedule_daily_messages
 
 from database.database import DataBaseInit
 
@@ -41,9 +44,12 @@ async def main():
     dp.include_router(output_calculator_router)
     dp.include_router(quiz_router)
     dp.include_router(paste_calculator_router)
-    dp.include_router(set_product)
+    dp.include_router(set_product_router)
     dp.include_router(todo_router)
     dp.include_router(gpt_router)
+    dp.include_router(analize_router)
+    dp.include_router(gpt_for_analize_router)
+    asyncio.create_task(schedule_daily_messages(bot))
     
     logging.info("Бот запущен")
 

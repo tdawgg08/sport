@@ -4,6 +4,7 @@ from aiogram.filters import StateFilter
 from aiogram.fsm.context import FSMContext
 from aiogram.fsm.state import State, StatesGroup
 
+from keyboards.back import back_kb
 from keyboards.gpt import gpt_kb
 
 import requests
@@ -80,12 +81,12 @@ async def chat_stream(prompt, message: types.Message):
     except Exception as e:
         await bot_message.edit_text(f"⚠️ Произошла ошибка: {str(e)}")
 
-@router.callback_query(F.data == 'question')
+@router.callback_query(F.data == 'deepseek')
 async def question_answer(callback: types.CallbackQuery, state: FSMContext):
     await callback.message.delete()
-    await callback.message.answer('Задайте вопрос нейросети:', reply_markup=gpt_kb())
+    await callback.message.answer('Задайте вопрос нейросети:', reply_markup=back_kb())
     await state.set_state(Form.gpt_question)
-
+    await callback.answer()
 @router.message(StateFilter(Form.gpt_question))
 async def handle_user_question(message: types.Message, state: FSMContext):
     if message.text:

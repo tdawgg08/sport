@@ -5875,3 +5875,123 @@ aiogram.exceptions.TelegramBadRequest: Telegram server says - Bad Request: messa
 2025-10-22 21:11:37,184 - aiogram.dispatcher - INFO - Polling stopped
 2025-10-22 21:11:37,446 - root - INFO - Бот остановлен
 2025-10-22 21:11:37,446 - aiogram.dispatcher - INFO - Polling stopped for bot @sportzgbot id=8331344279 - 'sportbot'
+2025-10-22 19:10:09,383 - root - INFO - Бот запущен
+2025-10-22 19:10:09,383 - aiogram.dispatcher - INFO - Start polling
+2025-10-22 19:10:09,695 - aiogram.dispatcher - INFO - Run polling for bot @sportzgbot id=8331344279 - 'sportbot'
+2025-10-22 19:11:01,841 - aiogram.event - INFO - Update id=619881097 is handled. Duration 375 ms by bot id=8331344279
+2025-10-22 19:11:03,001 - aiogram.event - INFO - Update id=619881098 is handled. Duration 250 ms by bot id=8331344279
+2025-10-22 19:11:04,726 - aiogram.event - INFO - Update id=619881099 is handled. Duration 452 ms by bot id=8331344279
+2025-10-22 19:11:05,499 - aiogram.event - INFO - Update id=619881100 is handled. Duration 358 ms by bot id=8331344279
+2025-10-22 19:11:06,224 - aiogram.event - INFO - Update id=619881101 is handled. Duration 264 ms by bot id=8331344279
+2025-10-22 19:11:06,963 - aiogram.event - INFO - Update id=619881102 is handled. Duration 235 ms by bot id=8331344279
+2025-10-22 19:11:10,951 - aiogram.event - INFO - Update id=619881103 is handled. Duration 250 ms by bot id=8331344279
+2025-10-22 19:11:11,816 - aiogram.event - INFO - Update id=619881104 is handled. Duration 250 ms by bot id=8331344279
+2025-10-22 19:11:13,031 - aiogram.event - INFO - Update id=619881105 is handled. Duration 452 ms by bot id=8331344279
+2025-10-22 19:11:14,098 - aiogram.event - INFO - Update id=619881106 is handled. Duration 344 ms by bot id=8331344279
+2025-10-22 19:11:14,904 - aiogram.event - INFO - Update id=619881107 is handled. Duration 391 ms by bot id=8331344279
+2025-10-22 19:11:18,856 - aiogram.event - INFO - Update id=619881108 is handled. Duration 311 ms by bot id=8331344279
+2025-10-22 19:11:19,748 - aiogram.event - INFO - Update id=619881109 is handled. Duration 327 ms by bot id=8331344279
+2025-10-22 19:11:20,624 - aiogram.event - INFO - Update id=619881110 is handled. Duration 420 ms by bot id=8331344279
+2025-10-22 19:11:21,804 - aiogram.event - INFO - Update id=619881111 is handled. Duration 280 ms by bot id=8331344279
+2025-10-22 19:11:41,086 - aiogram.event - INFO - Update id=619881112 is handled. Duration 18282 ms by bot id=8331344279
+2025-10-22 19:11:53,632 - aiogram.event - INFO - Update id=619881113 is handled. Duration 0 ms by bot id=8331344279
+2025-10-22 19:14:55,450 - aiogram.dispatcher - INFO - Polling stopped
+2025-10-22 19:14:55,452 - aiogram.dispatcher - INFO - Polling stopped for bot @sportzgbot id=8331344279 - 'sportbot'
+2025-10-22 19:14:55,452 - root - INFO - Бот остановлен
+2025-10-22 19:15:05,439 - root - INFO - Бот запущен
+2025-10-22 19:15:05,439 - aiogram.dispatcher - INFO - Start polling
+2025-10-22 19:15:05,828 - aiogram.dispatcher - INFO - Run polling for bot @sportzgbot id=8331344279 - 'sportbot'
+2025-10-22 19:15:11,837 - aiogram.event - INFO - Update id=619881114 is handled. Duration 375 ms by bot id=8331344279
+2025-10-22 19:15:13,226 - aiogram.event - INFO - Update id=619881115 is handled. Duration 389 ms by bot id=8331344279
+2025-10-22 19:15:15,016 - aiogram.event - INFO - Update id=619881116 is handled. Duration 266 ms by bot id=8331344279
+2025-10-22 19:15:16,337 - aiogram.event - INFO - Update id=619881117 is handled. Duration 407 ms by bot id=8331344279
+2025-10-22 19:15:19,554 - aiogram.event - INFO - Update id=619881118 is not handled. Duration 0 ms by bot id=8331344279
+2025-10-22 19:15:28,947 - aiogram.event - INFO - Update id=619881119 is handled. Duration 280 ms by bot id=8331344279
+2025-10-22 19:15:34,217 - aiogram.event - INFO - Update id=619881120 is handled. Duration 360 ms by bot id=8331344279
+2025-10-22 19:15:36,244 - aiogram.event - INFO - Update id=619881121 is handled. Duration 280 ms by bot id=8331344279
+2025-10-22 19:17:56,087 - aiogram.dispatcher - INFO - Polling stopped
+2025-10-22 19:17:56,342 - root - INFO - Бот остановлен
+2025-10-22 19:17:56,343 - aiogram.dispatcher - INFO - Polling stopped for bot @sportzgbot id=8331344279 - 'sportbot'
+2025-10-22 19:18:03,350 - root - INFO - Бот запущен
+2025-10-22 19:18:03,350 - aiogram.dispatcher - INFO - Start polling
+2025-10-22 19:18:03,648 - aiogram.dispatcher - INFO - Run polling for bot @sportzgbot id=8331344279 - 'sportbot'
+2025-10-22 19:18:19,443 - aiogram.event - INFO - Update id=619881122 is handled. Duration 327 ms by bot id=8331344279
+2025-10-22 19:18:21,657 - aiogram.event - INFO - Update id=619881123 is handled. Duration 422 ms by bot id=8331344279
+2025-10-22 19:18:22,956 - aiogram.event - INFO - Update id=619881124 is not handled. Duration 0 ms by bot id=8331344279
+2025-10-22 19:20:23,077 - aiogram.dispatcher - INFO - Polling stopped
+2025-10-22 19:20:23,337 - aiogram.dispatcher - INFO - Polling stopped for bot @sportzgbot id=8331344279 - 'sportbot'
+2025-10-22 19:20:23,339 - root - INFO - Бот остановлен
+2025-10-22 19:20:58,690 - root - INFO - Бот запущен
+2025-10-22 19:20:58,690 - aiogram.dispatcher - INFO - Start polling
+2025-10-22 19:20:59,062 - aiogram.dispatcher - INFO - Run polling for bot @sportzgbot id=8331344279 - 'sportbot'
+2025-10-22 19:21:00,182 - aiogram.event - INFO - Update id=619881125 is handled. Duration 436 ms by bot id=8331344279
+2025-10-22 19:21:02,348 - aiogram.event - INFO - Update id=619881126 is handled. Duration 297 ms by bot id=8331344279
+2025-10-22 19:21:04,252 - aiogram.event - INFO - Update id=619881127 is handled. Duration 639 ms by bot id=8331344279
+2025-10-22 19:21:05,230 - aiogram.event - INFO - Update id=619881128 is handled. Duration 389 ms by bot id=8331344279
+2025-10-22 19:21:06,393 - aiogram.event - INFO - Update id=619881129 is handled. Duration 375 ms by bot id=8331344279
+2025-10-22 19:21:07,197 - aiogram.event - INFO - Update id=619881130 is not handled. Duration 0 ms by bot id=8331344279
+2025-10-22 19:27:00,718 - aiogram.dispatcher - INFO - Polling stopped
+2025-10-22 19:27:00,794 - aiogram.dispatcher - INFO - Polling stopped for bot @sportzgbot id=8331344279 - 'sportbot'
+2025-10-22 19:27:00,794 - root - INFO - Бот остановлен
+2025-10-22 19:27:01,136 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task cancelling name='Task-1' coro=<main() done, defined at C:\Users\Илья Марченко\Documents\GitHub\sport\main.py:34> wait_for=<Future pending cb=[Task.task_wakeup()]> cb=[gather.<locals>._done_callback() at C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\asyncio\tasks.py:764]>
+2025-10-22 19:27:08,493 - root - INFO - Бот запущен
+2025-10-22 19:27:08,493 - aiogram.dispatcher - INFO - Start polling
+2025-10-22 19:27:08,798 - aiogram.dispatcher - INFO - Run polling for bot @sportzgbot id=8331344279 - 'sportbot'
+2025-10-22 19:27:12,557 - aiogram.event - INFO - Update id=619881131 is handled. Duration 389 ms by bot id=8331344279
+2025-10-22 19:27:14,078 - aiogram.event - INFO - Update id=619881132 is handled. Duration 250 ms by bot id=8331344279
+2025-10-22 19:27:14,722 - aiogram.event - INFO - Update id=619881133 is not handled. Duration 0 ms by bot id=8331344279
+2025-10-22 19:29:26,098 - aiogram.dispatcher - INFO - Polling stopped
+2025-10-22 19:29:26,169 - aiogram.dispatcher - INFO - Polling stopped for bot @sportzgbot id=8331344279 - 'sportbot'
+2025-10-22 19:29:26,169 - root - INFO - Бот остановлен
+2025-10-22 19:29:26,517 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task cancelling name='Task-1' coro=<main() done, defined at C:\Users\Илья Марченко\Documents\GitHub\sport\main.py:34> wait_for=<Future pending cb=[Task.task_wakeup()]> cb=[gather.<locals>._done_callback() at C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\asyncio\tasks.py:764]>
+2025-10-22 19:29:34,535 - root - INFO - Бот запущен
+2025-10-22 19:29:34,535 - aiogram.dispatcher - INFO - Start polling
+2025-10-22 19:29:34,830 - aiogram.dispatcher - INFO - Run polling for bot @sportzgbot id=8331344279 - 'sportbot'
+2025-10-22 19:29:35,689 - aiogram.event - INFO - Update id=619881134 is handled. Duration 375 ms by bot id=8331344279
+2025-10-22 19:29:37,157 - aiogram.event - INFO - Update id=619881135 is handled. Duration 250 ms by bot id=8331344279
+2025-10-22 19:29:38,307 - aiogram.event - INFO - Update id=619881136 is handled. Duration 375 ms by bot id=8331344279
+2025-10-22 19:29:47,244 - aiogram.event - INFO - Update id=619881137 is handled. Duration 1515 ms by bot id=8331344279
+2025-10-22 19:30:06,226 - aiogram.event - INFO - Update id=619881138 is handled. Duration 484 ms by bot id=8331344279
+2025-10-22 19:30:07,364 - aiogram.event - INFO - Update id=619881139 is handled. Duration 250 ms by bot id=8331344279
+2025-10-22 19:30:08,574 - aiogram.event - INFO - Update id=619881140 is handled. Duration 375 ms by bot id=8331344279
+2025-10-22 19:30:12,645 - aiogram.event - INFO - Update id=619881141 is handled. Duration 1421 ms by bot id=8331344279
+2025-10-22 19:31:32,001 - aiogram.dispatcher - INFO - Polling stopped
+2025-10-22 19:31:32,100 - aiogram.dispatcher - INFO - Polling stopped for bot @sportzgbot id=8331344279 - 'sportbot'
+2025-10-22 19:31:32,100 - root - INFO - Бот остановлен
+2025-10-22 19:31:38,599 - root - INFO - Бот запущен
+2025-10-22 19:31:38,599 - aiogram.dispatcher - INFO - Start polling
+2025-10-22 19:31:38,894 - aiogram.dispatcher - INFO - Run polling for bot @sportzgbot id=8331344279 - 'sportbot'
+2025-10-22 19:31:40,457 - aiogram.event - INFO - Update id=619881142 is handled. Duration 359 ms by bot id=8331344279
+2025-10-22 19:31:41,712 - aiogram.event - INFO - Update id=619881143 is handled. Duration 469 ms by bot id=8331344279
+2025-10-22 19:31:42,866 - aiogram.event - INFO - Update id=619881144 is handled. Duration 563 ms by bot id=8331344279
+2025-10-22 19:31:59,635 - aiogram.event - INFO - Update id=619881145 is handled. Duration 8655 ms by bot id=8331344279
+2025-10-22 19:32:06,939 - aiogram.event - INFO - Update id=619881146 is handled. Duration 405 ms by bot id=8331344279
+2025-10-22 19:32:29,499 - aiogram.event - INFO - Update id=619881147 is handled. Duration 16967 ms by bot id=8331344279
+2025-10-22 19:33:56,973 - aiogram.event - INFO - Update id=619881148 is handled. Duration 390 ms by bot id=8331344279
+2025-10-22 19:34:58,579 - aiogram.event - INFO - Update id=619881149 is handled. Duration 56969 ms by bot id=8331344279
+2025-10-22 19:35:00,938 - aiogram.event - INFO - Update id=619881150 is handled. Duration 719 ms by bot id=8331344279
+2025-10-22 19:35:19,837 - aiogram.event - INFO - Update id=619881151 is handled. Duration 7015 ms by bot id=8331344279
+2025-10-22 19:36:26,451 - aiogram.event - INFO - Update id=619881152 is handled. Duration 359 ms by bot id=8331344279
+2025-10-22 19:36:27,497 - aiogram.event - INFO - Update id=619881153 is handled. Duration 219 ms by bot id=8331344279
+2025-10-22 19:36:30,053 - aiogram.event - INFO - Update id=619881154 is handled. Duration 264 ms by bot id=8331344279
+2025-10-22 19:36:33,585 - aiogram.event - INFO - Update id=619881155 is handled. Duration 234 ms by bot id=8331344279
+2025-10-22 19:36:36,444 - aiogram.event - INFO - Update id=619881156 is handled. Duration 266 ms by bot id=8331344279
+2025-10-22 19:43:46,083 - aiogram.dispatcher - INFO - Polling stopped
+2025-10-22 19:43:46,084 - aiogram.dispatcher - INFO - Polling stopped for bot @sportzgbot id=8331344279 - 'sportbot'
+2025-10-22 19:44:05,908 - root - INFO - Бот запущен
+2025-10-22 19:44:05,908 - aiogram.dispatcher - INFO - Start polling
+2025-10-22 19:44:06,282 - aiogram.dispatcher - INFO - Run polling for bot @sportzgbot id=8331344279 - 'sportbot'
+2025-10-22 19:44:11,076 - aiogram.event - INFO - Update id=619881157 is handled. Duration 609 ms by bot id=8331344279
+2025-10-22 19:44:12,628 - aiogram.event - INFO - Update id=619881158 is handled. Duration 592 ms by bot id=8331344279
+2025-10-22 19:44:34,456 - aiogram.event - INFO - Update id=619881159 is handled. Duration 11078 ms by bot id=8331344279
+2025-10-22 19:44:40,590 - aiogram.event - INFO - Update id=619881160 is handled. Duration 375 ms by bot id=8331344279
+2025-10-22 19:44:59,403 - aiogram.event - INFO - Update id=619881161 is handled. Duration 12655 ms by bot id=8331344279
+2025-10-22 19:45:09,132 - aiogram.event - INFO - Update id=619881162 is handled. Duration 359 ms by bot id=8331344279
+2025-10-22 19:45:39,022 - aiogram.event - INFO - Update id=619881163 is handled. Duration 13358 ms by bot id=8331344279
+2025-10-22 20:16:34,617 - aiogram.dispatcher - INFO - Polling stopped
+2025-10-22 20:16:34,696 - aiogram.dispatcher - INFO - Polling stopped for bot @sportzgbot id=8331344279 - 'sportbot'
+2025-10-22 20:16:34,696 - root - INFO - Бот остановлен
+2025-10-22 20:16:35,063 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task cancelling name='Task-1' coro=<main() done, defined at C:\Users\Илья Марченко\Documents\GitHub\sport\main.py:35> wait_for=<Future pending cb=[Task.task_wakeup()]> cb=[gather.<locals>._done_callback() at C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\asyncio\tasks.py:764]>

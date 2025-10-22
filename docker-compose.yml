@@ -1,0 +1,48 @@
+services:
+  db:
+    image: postgres:latest
+    container_name: sportBOT
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: Ilyapro321
+      POSTGRES_DB: SportbotIP
+      PGDATA: /var/lib/postgresql/data/pgdata
+    volumes:
+      - ../2. Init Database:/docker-entrypoint-initdb.d
+      - .:/var/lib/postgresql/data
+    ports:
+      - 5433:5432
+    deploy:
+      resources:
+        limits:
+          cpus: '0.50'
+          memory: 512M
+        reservations:
+          cpus: '0.25'
+          memory: 256M
+    command: >
+      postgres -c max_connections=1000
+               -c shared_buffers=256MB
+               -c effective_cache_size=768MB
+               -c maintenance_work_mem=64MB
+               -c checkpoint_completion_target=0.7
+               -c wal_buffers=16MB
+               -c default_statistics_target=100
+    healthcheck:
+      test: [ "CMD-SHELL", "pg_isready -U postgres_user -d postgres_db" ]
+      interval: 30s
+      timeout: 10s
+      retries: 5
+    restart: unless-stopped
+    tty: true
+    stdin_open: true
+
+  bot:
+    build: . 
+    container_name: sport
+    network_mode: "host"
+    env_file:
+      - .env
+volumes:
+  pgdata:
+    driver: local
