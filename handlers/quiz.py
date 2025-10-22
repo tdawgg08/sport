@@ -5,9 +5,6 @@ from aiogram.fsm.state import State, StatesGroup
 from contextlib import suppress
 from aiogram.exceptions import TelegramBadRequest
 
-from database.database import AsyncSessionLocal
-
-from database.models import User
 
 from keyboards.quiz import (
     question_1,

@@ -3,10 +3,6 @@ import json
 from bs4 import BeautifulSoup
 
 
-
-
-
-
 def parse_local_html(file_path):
     """Парсинг данных из локального HTML-файла"""
     if not os.path.exists(file_path):
@@ -17,10 +13,9 @@ def parse_local_html(file_path):
     
     products = []
     
-    # Находим все строки таблицы
     for row in soup.find_all('tr', class_=lambda x: x in ['odd', 'even']):
         try:
-            # Извлекаем данные из ячеек
+            
             cells = row.find_all('td')
             
             product = {
@@ -45,7 +40,7 @@ def save_to_json(data, filename):
         json.dump(data, f, ensure_ascii=False, indent=2)
 
 if __name__ == '__main__':
-    # Путь к вашему локальному файлу
+    
     input_file = 'HTML\cccchecker.html'
     output_file = 'parsed_products.json'
     
@@ -53,10 +48,8 @@ if __name__ == '__main__':
         print(f"Файл {input_file} не найден!")
         exit()
     
-    # Парсим данные
     parsed_data = parse_local_html(input_file)
     
-    # Сохраняем результат
     save_to_json(parsed_data, output_file)
     
     print(f"Успешно обработано {len(parsed_data)} продуктов")

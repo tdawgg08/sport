@@ -2,21 +2,18 @@ import os
 import sys
 import logging
 from dotenv import load_dotenv
-
-from aiogram import Dispatcher, Bot, F, types
+from aiogram import Dispatcher, Bot
+from misc.set_kcal_in_db import import_products
 from handlers.start import router as start_router
-from handlers.quiz import router as quiz_router
-from handlers.gpt import router as gpt_router
 from handlers.menu import router as menu_router
+from handlers.calculator.output_calories import router as output_calculator_router
+from handlers.calculator.paste_calories import router as paste_calculator_router
+from handlers.calculator.set_product import router as set_product
+from handlers.quiz import router as quiz_router
 from handlers.todo import router as todo_router
-from handlers.calculator.dynamic import router as calc_dynamic_router
-from keyboards.calculator.callbacks import router as calc_callbacks_router
-from callbacks import num_router
-import logging
+from handlers.gpt import router as gpt_router
 
-from database.orm import Manage_ORM
-from database.products import process_and_insert_data
-
+from database.database import DataBaseInit
 
 import asyncio
 
@@ -37,18 +34,19 @@ async def main():
     TOKEN_API_BOT = os.getenv('TOKEN_API_BOT')
     bot = Bot(TOKEN_API_BOT)
     dp = Dispatcher()
+    await DataBaseInit()
+    await import_products()
     dp.include_router(start_router)
-    dp.include_router(quiz_router)
     dp.include_router(menu_router)
-    dp.include_router(gpt_router)
+    dp.include_router(output_calculator_router)
+    dp.include_router(quiz_router)
+    dp.include_router(paste_calculator_router)
+    dp.include_router(set_product)
     dp.include_router(todo_router)
-    dp.include_router(calc_dynamic_router)
-    dp.include_router(calc_callbacks_router)
-    dp.include_router(num_router)
-    await Manage_ORM.drop_tables()
-    await Manage_ORM.create_table_anketa()
-    await process_and_insert_data()
-    logging.info("  Бот запущен")
+    dp.include_router(gpt_router)
+    
+    logging.info("Бот запущен")
+
     try:
         await dp.start_polling(bot)
     except Exception as e:

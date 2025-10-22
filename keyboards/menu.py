@@ -5,7 +5,7 @@ def menu_kb() -> InlineKeyboardMarkup:
     keyboard = [
         [InlineKeyboardButton(text="📝 Todo List", callback_data="todo"),
          InlineKeyboardButton(text="Задать вопрос", callback_data="question"),
-         InlineKeyboardButton(text="Калькулятор калорий", callback_data="calculator"),]
+         InlineKeyboardButton(text="Калькулятор калорий", callback_data="calories"),]
     ]
                 
     
